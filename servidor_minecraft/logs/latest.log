@@ -954,3 +954,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [17Apr2025 04:48:04.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [You Are A Pirate]
 [17Apr2025 04:48:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [You Are A Pirate]
 [17Apr2025 04:48:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Diamonds!]
+[17Apr2025 04:54:37.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AronTR) moved wrongly! 0.30485064716413035
+[17Apr2025 04:54:37.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AronTR) moved wrongly! 0.4792346728125949
+[17Apr2025 04:54:37.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AronTR) moved wrongly! 0.5170689334253211
+[17Apr2025 04:54:37.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AronTR) moved wrongly! 0.5884670130361656
+[17Apr2025 04:54:37.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AronTR) moved wrongly! 0.6895932852493161
