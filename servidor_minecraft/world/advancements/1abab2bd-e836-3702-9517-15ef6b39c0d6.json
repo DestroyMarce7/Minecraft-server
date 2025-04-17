@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -106,6 +112,12 @@
       "has_journal": "2025-04-17 02:22:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
@@ -172,6 +184,12 @@
       "has_planks": "2025-04-17 02:26:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
@@ -353,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-17 03:08:02 +0000"
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-04-17 04:16:32 +0000"
@@ -380,6 +410,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-17 05:00:06 +0000"
     },
     "done": true
   },
@@ -440,6 +476,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -532,6 +574,12 @@
       "has_journal": "2025-04-17 02:22:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
@@ -724,6 +772,12 @@
       "shot_arrow": "2025-04-17 03:14:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
@@ -1056,10 +1110,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-17 03:29:16 +0000",
       "minecraft:skeleton": "2025-04-17 02:29:20 +0000",
+      "minecraft:hoglin": "2025-04-17 05:04:24 +0000",
       "minecraft:vindicator": "2025-04-17 02:52:49 +0000",
       "minecraft:spider": "2025-04-17 04:30:03 +0000",
       "minecraft:creeper": "2025-04-17 02:33:23 +0000",
@@ -1283,6 +1344,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -1376,6 +1443,12 @@
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 05:04:52 +0000"
     },
     "done": true
   },
@@ -1493,6 +1566,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -1502,6 +1581,18 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-17 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -1727,6 +1818,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-17 02:26:12 +0000"
@@ -1745,6 +1842,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-17 04:49:06 +0000"
@@ -1754,6 +1857,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -1820,6 +1929,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -1928,6 +2043,12 @@
   "ars_nouveau:recipes/misc/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -2086,6 +2207,12 @@
       "has_arrow": "2025-04-17 02:29:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
@@ -2264,6 +2391,12 @@
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-04-17 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 05:00:05 +0000"
     },
     "done": true
   },
@@ -2447,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_planks": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -2458,6 +2597,12 @@
       "has_journal": "2025-04-17 02:22:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
@@ -2831,6 +2976,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -2981,6 +3132,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-17 05:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 03:06:00 +0000"
@@ -3022,6 +3179,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/alteration_table": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -3043,6 +3206,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-04-17 04:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -3099,6 +3268,12 @@
       "has_journal": "2025-04-17 02:22:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 05:05:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -3234,6 +3409,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 05:00:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
@@ -3261,6 +3442,12 @@
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2025-04-17 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
@@ -3303,6 +3490,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-17 03:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:00 +0000"
     },
     "done": true
   },
