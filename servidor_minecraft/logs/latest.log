@@ -838,3 +838,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [17Apr2025 03:30:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Ashes 'n Bones]
 [17Apr2025 03:30:57.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Magic Writing]
 [17Apr2025 03:31:53.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/16264, l='ServerLevel[world]', x=-569.49, y=20.00, z=-278.78] died, message: 'Mason was slain by Zombie'
+[17Apr2025 03:43:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Strong or Careful]
+[17Apr2025 03:43:16.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 fell from a high place
+[17Apr2025 03:43:16.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Your First Grave]
+[17Apr2025 03:43:16.448] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17Apr2025 03:47:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Discreet Search]
+[17Apr2025 03:48:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Knowledge raises the soul]

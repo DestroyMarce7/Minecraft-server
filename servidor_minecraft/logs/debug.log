@@ -5610,3 +5610,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [17Apr2025 03:33:31.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 03:38:31.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 03:38:31.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 03:43:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Strong or Careful]
+[17Apr2025 03:43:16.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 fell from a high place
+[17Apr2025 03:43:16.445] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:-493, y:86, z:-164, dim:minecraft:overworld]
+[17Apr2025 03:43:16.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Your First Grave]
+[17Apr2025 03:43:16.448] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17Apr2025 03:43:31.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:43:31.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 03:47:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Discreet Search]
+[17Apr2025 03:48:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Knowledge raises the soul]
+[17Apr2025 03:48:31.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:48:31.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
