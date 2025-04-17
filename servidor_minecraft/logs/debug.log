@@ -5644,3 +5644,117 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [17Apr2025 03:58:42.000] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
 [17Apr2025 03:58:42.556] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
 [17Apr2025 03:58:42.556] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[17Apr2025 04:03:31.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:03:31.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:08:31.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:08:31.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:08:50.150] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:08:50.150] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:08:50.150] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:08:50.150] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:23.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Voluntary Exile]
+[17Apr2025 04:13:31.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:13:31.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:13:40.082] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:40.083] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:40.083] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:40.083] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:45.236] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:45.236] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:45.236] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:45.237] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:50.870] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:51.255] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:51.570] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[17Apr2025 04:13:51.836] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[17Apr2025 04:14:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Stay dead]
+[17Apr2025 04:18:31.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:18:31.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:18:34.544] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:18:34.545] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:18:34.545] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:18:34.545] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:19:13.566] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:19:13.567] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:19:13.567] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:19:13.567] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:22:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Fortuitous Militia]
+[17Apr2025 04:22:09.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Voluntary Exile]
+[17Apr2025 04:23:23.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Fortuitous Militia]
+[17Apr2025 04:23:24.503] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:23:24.503] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:23:24.504] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:23:24.504] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:23:31.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:23:31.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:24:50.011] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:26:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was fireballed by Igniter
+[17Apr2025 04:26:59.881] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DestroyMarce7 with unique ID travelersbackpack.standard_17.04.2025-04.26.59.dat
+[17Apr2025 04:26:59.885] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:904, y:69, z:-1115, dim:minecraft:overworld]
+[17Apr2025 04:26:59.888] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17Apr2025 04:27:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [The Most Useful Key]
+[17Apr2025 04:27:25.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Chain Death]
+[17Apr2025 04:27:25.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was burnt to a crisp whilst fighting Ravager
+[17Apr2025 04:27:25.580] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DestroyMarce7 with unique ID travelersbackpack.standard_17.04.2025-04.27.25.dat
+[17Apr2025 04:27:25.588] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:918, y:70, z:-1120, dim:minecraft:overworld]
+[17Apr2025 04:27:25.590] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17Apr2025 04:27:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [Here They Come]
+[17Apr2025 04:28:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Ravager
+[17Apr2025 04:28:02.972] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DestroyMarce7 with unique ID travelersbackpack.standard_17.04.2025-04.28.02.dat
+[17Apr2025 04:28:02.975] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:914, y:69, z:-1112, dim:minecraft:overworld]
+[17Apr2025 04:28:02.989] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17Apr2025 04:28:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Hero of the Village]
+[17Apr2025 04:28:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has completed the challenge [Hero of the Village]
+[17Apr2025 04:28:31.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:28:31.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:29:01.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Take Aim]
+[17Apr2025 04:33:31.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:33:31.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:34:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Isn't It Iron Pick]
+[17Apr2025 04:35:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Ol' Betsy]
+[17Apr2025 04:36:02.263] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:36:02.264] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:36:02.264] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:36:02.264] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:19.492] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:19.492] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:19.492] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:19.493] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.920] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.923] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.930] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.961] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.963] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.963] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.972] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.989] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.992] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.994] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.994] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:35.998] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.005] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.015] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.035] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.059] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.071] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.096] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.166] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.176] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.197] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.271] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.342] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.401] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.410] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:36.545] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:37:46.386] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 04:38:31.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:38:31.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:39:38.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has completed the challenge [Rest In Peace]
+[17Apr2025 04:43:31.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:43:31.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:46:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Gravedigger]
+[17Apr2025 04:48:04.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [You Are A Pirate]
+[17Apr2025 04:48:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [You Are A Pirate]
+[17Apr2025 04:48:31.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:48:31.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:48:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Diamonds!]
