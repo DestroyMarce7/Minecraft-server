@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-17 03:58:10 +0000",
       "minecraft:birch_forest": "2025-04-17 02:40:09 +0000",
+      "minecraft:beach": "2025-04-17 03:55:01 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:04 +0000",
       "minecraft:river": "2025-04-17 02:40:01 +0000",
       "minecraft:dripstone_caves": "2025-04-17 03:01:52 +0000",
@@ -2337,6 +2339,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-17 03:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-17 02:33:26 +0000"
@@ -2448,6 +2456,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-17 03:16:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-17 03:53:49 +0000"
     },
     "done": true
   },
