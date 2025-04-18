@@ -3892,6 +3892,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-04-18 22:30:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
