@@ -11,6 +11,7 @@
       "minecraft:birch_forest": "2025-04-17 02:40:09 +0000",
       "minecraft:beach": "2025-04-17 03:55:01 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:04 +0000",
+      "minecraft:sparse_jungle": "2025-04-18 22:01:37 +0000",
       "minecraft:river": "2025-04-17 02:40:01 +0000",
       "minecraft:stony_shore": "2025-04-18 21:35:37 +0000",
       "minecraft:dripstone_caves": "2025-04-17 03:01:52 +0000",
@@ -18,8 +19,10 @@
       "minecraft:forest": "2025-04-17 03:40:39 +0000",
       "minecraft:lush_caves": "2025-04-17 03:04:12 +0000",
       "minecraft:ocean": "2025-04-17 04:20:27 +0000",
+      "minecraft:flower_forest": "2025-04-18 22:04:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 13:00:15 +0000",
       "minecraft:meadow": "2025-04-17 04:41:11 +0000",
+      "minecraft:savanna": "2025-04-18 22:02:40 +0000",
       "minecraft:plains": "2025-04-17 04:20:38 +0000"
     },
     "done": false
@@ -2255,6 +2258,7 @@
       "pumpkin_pie": "2025-04-17 03:00:50 +0000",
       "bread": "2025-04-17 03:03:15 +0000",
       "rotten_flesh": "2025-04-17 02:36:27 +0000",
+      "suspicious_stew": "2025-04-18 21:48:46 +0000",
       "carrot": "2025-04-18 21:37:37 +0000"
     },
     "done": false
@@ -2759,7 +2763,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-04-18 22:06:28 +0000",
       "entered_stables": "2025-04-17 04:36:29 +0000",
+      "entered_hay_storage": "2025-04-18 22:03:24 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:32 +0000",
       "entered_ruined_building": "2025-04-18 21:37:03 +0000"
     },
@@ -4183,9 +4189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-18 22:07:06 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-04-18 21:39:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-04-18 22:08:23 +0000"
     },
     "done": true
   },
@@ -4198,6 +4216,18 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-04-18 21:41:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-18 21:51:01 +0000"
     },
     "done": true
   },
@@ -4249,15 +4279,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 22:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 21:39:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-18 22:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 22:01:11 +0000"
     },
     "done": true
   },
@@ -4291,6 +4339,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-18 21:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 21:39:25 +0000"
@@ -4299,10 +4353,16 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-04-18 21:42:08 +0000",
+      "pine_taiga": "2025-04-18 21:51:49 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "grassy_beach": "2025-04-18 21:34:58 +0000",
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
-      "magnolia_highlands": "2025-04-18 21:34:46 +0000"
+      "flower_fields": "2025-04-18 22:04:29 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:46 +0000",
+      "bamboo_forest": "2025-04-18 22:01:13 +0000",
+      "temperate_grove": "2025-04-18 21:43:46 +0000",
+      "grassland": "2025-04-18 22:01:06 +0000"
     },
     "done": false
   },
@@ -4314,12 +4374,48 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-04-18 21:42:08 +0000",
+      "pine_taiga": "2025-04-18 21:51:49 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "grassy_beach": "2025-04-18 21:34:58 +0000",
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
-      "magnolia_highlands": "2025-04-18 21:34:46 +0000"
+      "flower_fields": "2025-04-18 22:04:29 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:46 +0000",
+      "bamboo_forest": "2025-04-18 22:01:13 +0000",
+      "temperate_grove": "2025-04-18 21:43:46 +0000",
+      "grassland": "2025-04-18 22:01:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-18 22:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-04-18 22:08:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -1481,8 +1481,10 @@
       "minecraft:forest": "2025-04-17 03:40:36 +0000",
       "minecraft:lush_caves": "2025-04-17 03:04:20 +0000",
       "minecraft:ocean": "2025-04-17 04:20:26 +0000",
+      "minecraft:flower_forest": "2025-04-18 22:04:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:22:41 +0000",
       "minecraft:meadow": "2025-04-17 04:40:45 +0000",
+      "minecraft:savanna": "2025-04-18 22:02:42 +0000",
       "minecraft:plains": "2025-04-17 04:20:38 +0000"
     },
     "done": false
@@ -2011,7 +2013,8 @@
       "minecraft:vindicator": "2025-04-17 02:52:49 +0000",
       "minecraft:spider": "2025-04-17 04:30:03 +0000",
       "minecraft:creeper": "2025-04-17 02:33:23 +0000",
-      "minecraft:zombie": "2025-04-17 02:36:04 +0000"
+      "minecraft:zombie": "2025-04-17 02:36:04 +0000",
+      "minecraft:zombie_villager": "2025-04-18 22:01:54 +0000"
     },
     "done": false
   },
@@ -2884,7 +2887,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-04-18 22:06:23 +0000",
       "entered_stables": "2025-04-17 04:36:35 +0000",
+      "entered_hay_storage": "2025-04-18 22:03:26 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:41 +0000",
       "entered_ruined_building": "2025-04-18 21:37:05 +0000"
     },
@@ -3688,9 +3693,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-04-18 21:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
@@ -3700,9 +3729,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
@@ -3721,6 +3768,18 @@
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
@@ -3745,6 +3804,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
@@ -3781,6 +3846,18 @@
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
@@ -3877,6 +3954,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-18 21:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
@@ -3990,10 +4073,16 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-04-18 21:41:44 +0000",
+      "pine_taiga": "2025-04-18 21:53:10 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
       "rocky_meadow": "2025-04-18 21:34:40 +0000",
-      "magnolia_highlands": "2025-04-18 21:34:48 +0000"
+      "flower_fields": "2025-04-18 22:04:30 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:48 +0000",
+      "bamboo_forest": "2025-04-18 22:01:18 +0000",
+      "temperate_grove": "2025-04-18 21:43:36 +0000",
+      "grassland": "2025-04-18 22:01:09 +0000"
     },
     "done": false
   },
@@ -4023,12 +4112,30 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-04-18 21:41:44 +0000",
+      "pine_taiga": "2025-04-18 21:53:10 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
       "rocky_meadow": "2025-04-18 21:34:40 +0000",
-      "magnolia_highlands": "2025-04-18 21:34:48 +0000"
+      "flower_fields": "2025-04-18 22:04:30 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:48 +0000",
+      "bamboo_forest": "2025-04-18 22:01:18 +0000",
+      "temperate_grove": "2025-04-18 21:43:36 +0000",
+      "grassland": "2025-04-18 22:01:09 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
@@ -4039,6 +4146,12 @@
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-18 22:10:47 +0000"
     },
     "done": true
   },
