@@ -1476,6 +1476,7 @@
       "minecraft:beach": "2025-04-17 03:55:00 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:02 +0000",
       "minecraft:river": "2025-04-17 02:40:02 +0000",
+      "minecraft:stony_shore": "2025-04-18 21:35:37 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:19:38 +0000",
       "minecraft:forest": "2025-04-17 03:40:36 +0000",
       "minecraft:lush_caves": "2025-04-17 03:04:20 +0000",
@@ -2168,6 +2169,7 @@
       "apple": "2025-04-17 04:33:45 +0000",
       "bread": "2025-04-17 04:40:30 +0000",
       "rotten_flesh": "2025-04-17 02:31:36 +0000",
+      "suspicious_stew": "2025-04-18 21:37:21 +0000",
       "cooked_chicken": "2025-04-17 02:45:39 +0000"
     },
     "done": false
@@ -2883,7 +2885,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-04-17 04:36:35 +0000",
-      "entered_large_dungeon": "2025-04-17 03:29:41 +0000"
+      "entered_large_dungeon": "2025-04-17 03:29:41 +0000",
+      "entered_ruined_building": "2025-04-18 21:37:05 +0000"
     },
     "done": false
   },
@@ -3685,6 +3688,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-04-18 21:39:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-04-18 21:13:14 +0000"
@@ -3712,6 +3721,12 @@
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "blades_of_the_fallen:skeleton_samurai_defeat": {
+    "criteria": {
+      "skeleton_samurai_defeat_0": "2025-04-18 21:33:38 +0000"
     },
     "done": true
   },
@@ -3973,6 +3988,15 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "willow_forest": "2025-04-18 21:35:40 +0000",
+      "grassy_beach": "2025-04-18 21:34:59 +0000",
+      "rocky_meadow": "2025-04-18 21:34:40 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:48 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
@@ -3996,6 +4020,15 @@
       "in_water": "2025-04-18 21:27:37 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "willow_forest": "2025-04-18 21:35:40 +0000",
+      "grassy_beach": "2025-04-18 21:34:59 +0000",
+      "rocky_meadow": "2025-04-18 21:34:40 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:48 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {

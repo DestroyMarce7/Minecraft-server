@@ -12,6 +12,7 @@
       "minecraft:beach": "2025-04-17 03:55:01 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:04 +0000",
       "minecraft:river": "2025-04-17 02:40:01 +0000",
+      "minecraft:stony_shore": "2025-04-18 21:35:37 +0000",
       "minecraft:dripstone_caves": "2025-04-17 03:01:52 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:19:38 +0000",
       "minecraft:forest": "2025-04-17 03:40:39 +0000",
@@ -2253,7 +2254,8 @@
       "apple": "2025-04-17 03:43:07 +0000",
       "pumpkin_pie": "2025-04-17 03:00:50 +0000",
       "bread": "2025-04-17 03:03:15 +0000",
-      "rotten_flesh": "2025-04-17 02:36:27 +0000"
+      "rotten_flesh": "2025-04-17 02:36:27 +0000",
+      "carrot": "2025-04-18 21:37:37 +0000"
     },
     "done": false
   },
@@ -2758,7 +2760,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-04-17 04:36:29 +0000",
-      "entered_large_dungeon": "2025-04-17 03:29:32 +0000"
+      "entered_large_dungeon": "2025-04-17 03:29:32 +0000",
+      "entered_ruined_building": "2025-04-18 21:37:03 +0000"
     },
     "done": false
   },
@@ -4179,6 +4182,144 @@
       "has_planks": "2025-04-18 21:21:47 +0000"
     },
     "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-04-18 21:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "willow_forest": "2025-04-18 21:35:40 +0000",
+      "grassy_beach": "2025-04-18 21:34:58 +0000",
+      "rocky_meadow": "2025-04-18 21:34:35 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "willow_forest": "2025-04-18 21:35:40 +0000",
+      "grassy_beach": "2025-04-18 21:34:58 +0000",
+      "rocky_meadow": "2025-04-18 21:34:35 +0000",
+      "magnolia_highlands": "2025-04-18 21:34:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

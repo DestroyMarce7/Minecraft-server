@@ -2696,3 +2696,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 21:29:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Zombie
 [18Apr2025 21:29:30.818] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
 [18Apr2025 21:33:38.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Rest In Peace]
+[18Apr2025 21:41:41.685] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 21:41:41.685] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 21:41:41.685] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 21:41:41.685] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
