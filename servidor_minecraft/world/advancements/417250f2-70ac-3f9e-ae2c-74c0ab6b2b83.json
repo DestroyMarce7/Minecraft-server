@@ -2766,6 +2766,7 @@
       "entered_tower_of_the_undead": "2025-04-18 22:06:28 +0000",
       "entered_stables": "2025-04-17 04:36:29 +0000",
       "entered_hay_storage": "2025-04-18 22:03:24 +0000",
+      "entered_fishing_ship": "2025-04-18 23:38:39 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:32 +0000",
       "entered_ruined_building": "2025-04-18 21:37:03 +0000"
     },
@@ -4202,6 +4203,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-18 23:38:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-04-18 22:08:23 +0000"
@@ -4247,6 +4254,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-18 23:45:25 +0000"
     },
     "done": true
   },
@@ -4322,6 +4335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-18 23:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 21:39:26 +0000"
@@ -4331,6 +4350,12 @@
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-04-18 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 23:37:46 +0000"
     },
     "done": true
   },
@@ -4352,6 +4377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-18 23:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-04-18 21:39:25 +0000"
@@ -4364,6 +4395,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-18 23:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-18 23:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 21:39:25 +0000"
@@ -4373,6 +4416,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-04-18 21:56:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-18 23:45:18 +0000"
     },
     "done": true
   },
@@ -4392,6 +4441,7 @@
     "criteria": {
       "shrubland": "2025-04-18 21:42:08 +0000",
       "pine_taiga": "2025-04-18 21:51:49 +0000",
+      "autumnal_maple_forest": "2025-04-18 23:39:25 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "grassy_beach": "2025-04-18 21:34:58 +0000",
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
@@ -4399,7 +4449,10 @@
       "magnolia_highlands": "2025-04-18 21:34:46 +0000",
       "bamboo_forest": "2025-04-18 22:01:13 +0000",
       "temperate_grove": "2025-04-18 21:43:46 +0000",
-      "grassland": "2025-04-18 22:01:06 +0000"
+      "cold_river": "2025-04-18 23:39:53 +0000",
+      "pumpkin_fields": "2025-04-18 23:39:58 +0000",
+      "grassland": "2025-04-18 22:01:06 +0000",
+      "gravel_beach": "2025-04-18 23:39:36 +0000"
     },
     "done": false
   },
@@ -4413,6 +4466,7 @@
     "criteria": {
       "shrubland": "2025-04-18 21:42:08 +0000",
       "pine_taiga": "2025-04-18 21:51:49 +0000",
+      "autumnal_maple_forest": "2025-04-18 23:39:25 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "grassy_beach": "2025-04-18 21:34:58 +0000",
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
@@ -4420,7 +4474,10 @@
       "magnolia_highlands": "2025-04-18 21:34:46 +0000",
       "bamboo_forest": "2025-04-18 22:01:13 +0000",
       "temperate_grove": "2025-04-18 21:43:46 +0000",
-      "grassland": "2025-04-18 22:01:06 +0000"
+      "cold_river": "2025-04-18 23:39:53 +0000",
+      "pumpkin_fields": "2025-04-18 23:39:58 +0000",
+      "grassland": "2025-04-18 22:01:06 +0000",
+      "gravel_beach": "2025-04-18 23:39:36 +0000"
     },
     "done": false
   },

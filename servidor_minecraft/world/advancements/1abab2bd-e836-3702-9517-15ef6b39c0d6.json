@@ -2014,6 +2014,7 @@
       "minecraft:vindicator": "2025-04-17 02:52:49 +0000",
       "minecraft:spider": "2025-04-17 04:30:03 +0000",
       "minecraft:creeper": "2025-04-17 02:33:23 +0000",
+      "minecraft:witch": "2025-04-18 23:19:17 +0000",
       "minecraft:enderman": "2025-04-18 23:03:58 +0000",
       "minecraft:zombie": "2025-04-17 02:36:04 +0000",
       "minecraft:zombie_villager": "2025-04-18 22:01:54 +0000"
@@ -2892,6 +2893,7 @@
       "entered_tower_of_the_undead": "2025-04-18 22:06:23 +0000",
       "entered_stables": "2025-04-17 04:36:35 +0000",
       "entered_hay_storage": "2025-04-18 22:03:26 +0000",
+      "entered_druid_circle": "2025-04-18 23:27:12 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:41 +0000",
       "entered_ruined_building": "2025-04-18 21:37:05 +0000"
     },
@@ -3695,6 +3697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-18 23:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-18 23:12:00 +0000"
@@ -3722,6 +3730,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 23:30:51 +0000"
     },
     "done": true
   },
@@ -3893,6 +3907,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 23:33:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -4019,6 +4039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 23:30:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -4058,6 +4084,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-18 23:41:48 +0000"
     },
     "done": true
   },
@@ -4133,6 +4165,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-18 23:22:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
@@ -4205,6 +4243,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-18 23:45:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -4252,14 +4296,18 @@
       "silver_birch_forest": "2025-04-18 23:13:21 +0000",
       "shrubland": "2025-04-18 21:41:44 +0000",
       "pine_taiga": "2025-04-18 21:53:10 +0000",
+      "autumnal_maple_forest": "2025-04-18 23:25:54 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
+      "poppy_fields": "2025-04-18 23:22:41 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
       "rocky_meadow": "2025-04-18 21:34:40 +0000",
       "flower_fields": "2025-04-18 22:04:30 +0000",
+      "highland_fields": "2025-04-18 23:17:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
       "temperate_grove": "2025-04-18 21:43:36 +0000",
       "cold_river": "2025-04-18 23:15:19 +0000",
+      "pumpkin_fields": "2025-04-18 23:38:17 +0000",
       "grassland": "2025-04-18 22:01:09 +0000"
     },
     "done": false
@@ -4300,6 +4348,12 @@
     },
     "done": true
   },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-04-18 23:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-18 23:12:00 +0000"
@@ -4311,17 +4365,27 @@
       "silver_birch_forest": "2025-04-18 23:13:21 +0000",
       "shrubland": "2025-04-18 21:41:44 +0000",
       "pine_taiga": "2025-04-18 21:53:10 +0000",
+      "autumnal_maple_forest": "2025-04-18 23:25:54 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
+      "poppy_fields": "2025-04-18 23:22:41 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
       "rocky_meadow": "2025-04-18 21:34:40 +0000",
       "flower_fields": "2025-04-18 22:04:30 +0000",
+      "highland_fields": "2025-04-18 23:17:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
       "temperate_grove": "2025-04-18 21:43:36 +0000",
       "cold_river": "2025-04-18 23:15:19 +0000",
+      "pumpkin_fields": "2025-04-18 23:38:17 +0000",
       "grassland": "2025-04-18 22:01:09 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 23:30:51 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
     "criteria": {
