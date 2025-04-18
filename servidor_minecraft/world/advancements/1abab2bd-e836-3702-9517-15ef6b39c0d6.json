@@ -1472,6 +1472,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-17 03:58:11 +0000",
+      "minecraft:cherry_grove": "2025-04-18 22:18:30 +0000",
       "minecraft:birch_forest": "2025-04-17 02:40:11 +0000",
       "minecraft:beach": "2025-04-17 03:55:00 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:02 +0000",
@@ -3765,9 +3766,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 22:25:27 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-18 22:25:12 +0000"
     },
     "done": true
   },
@@ -3786,6 +3799,12 @@
   "blades_of_the_fallen:skeleton_samurai_defeat": {
     "criteria": {
       "skeleton_samurai_defeat_0": "2025-04-18 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-18 22:25:12 +0000"
     },
     "done": true
   },
@@ -3810,6 +3829,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-04-18 22:25:27 +0000"
     },
     "done": true
   },
@@ -3903,6 +3928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-18 22:19:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -3912,6 +3943,12 @@
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-04-18 22:25:27 +0000"
     },
     "done": true
   },
@@ -3930,6 +3967,12 @@
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 22:25:12 +0000"
     },
     "done": true
   },
@@ -3954,6 +3997,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-18 21:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 22:25:27 +0000"
     },
     "done": true
   },
@@ -3990,6 +4039,12 @@
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 22:25:12 +0000"
     },
     "done": true
   },
@@ -4050,6 +4105,12 @@
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-18 22:12:18 +0000"
     },
     "done": true
   },
@@ -4128,6 +4189,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-18 22:25:12 +0000"
     },
     "done": true
   },
