@@ -2014,6 +2014,7 @@
       "minecraft:vindicator": "2025-04-17 02:52:49 +0000",
       "minecraft:spider": "2025-04-17 04:30:03 +0000",
       "minecraft:creeper": "2025-04-17 02:33:23 +0000",
+      "minecraft:enderman": "2025-04-18 23:03:58 +0000",
       "minecraft:zombie": "2025-04-17 02:36:04 +0000",
       "minecraft:zombie_villager": "2025-04-18 22:01:54 +0000"
     },
@@ -3856,6 +3857,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-18 23:03:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -4168,6 +4175,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-18 21:28:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-18 23:03:59 +0000"
     },
     "done": true
   },
