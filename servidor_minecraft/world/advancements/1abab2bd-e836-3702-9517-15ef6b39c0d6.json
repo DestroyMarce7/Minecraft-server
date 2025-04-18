@@ -3695,6 +3695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-18 23:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 22:10:47 +0000"
@@ -3785,6 +3791,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-18 23:07:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 22:10:47 +0000"
@@ -3821,6 +3833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
@@ -3839,6 +3857,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-04-18 23:14:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
@@ -3848,6 +3872,12 @@
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
     },
     "done": true
   },
@@ -3923,6 +3953,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "silver_birch_log": "2025-04-18 23:14:32 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-04-18 21:08:08 +0000"
@@ -3971,6 +4013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -3998,6 +4046,12 @@
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
     },
     "done": true
   },
@@ -4034,6 +4088,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
     },
     "done": true
   },
@@ -4115,6 +4175,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-18 23:07:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
@@ -4145,14 +4229,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-18 23:12:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 23:16:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-04-18 23:13:21 +0000",
       "shrubland": "2025-04-18 21:41:44 +0000",
       "pine_taiga": "2025-04-18 21:53:10 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
@@ -4162,9 +4259,16 @@
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
       "temperate_grove": "2025-04-18 21:43:36 +0000",
+      "cold_river": "2025-04-18 23:15:19 +0000",
       "grassland": "2025-04-18 22:01:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 23:07:15 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
@@ -4196,8 +4300,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-18 23:12:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-04-18 23:13:21 +0000",
       "shrubland": "2025-04-18 21:41:44 +0000",
       "pine_taiga": "2025-04-18 21:53:10 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
@@ -4207,9 +4318,16 @@
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
       "temperate_grove": "2025-04-18 21:43:36 +0000",
+      "cold_river": "2025-04-18 23:15:19 +0000",
       "grassland": "2025-04-18 22:01:09 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 23:14:32 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {

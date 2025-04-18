@@ -2735,3 +2735,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 22:54:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Unbreaking X]
 [18Apr2025 22:59:53.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by AronTR
 [18Apr2025 22:59:53.568] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[18Apr2025 23:16:30.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Bone Crusher]
