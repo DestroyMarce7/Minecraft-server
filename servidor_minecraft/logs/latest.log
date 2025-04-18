@@ -2690,3 +2690,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 21:24:17.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 lost connection: Disconnected
 [18Apr2025 21:24:17.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 left the game
 [18Apr2025 21:25:09.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1154, l='ServerLevel[world]', x=1111.71, y=62.51, z=-1041.20] died, message: 'Villager was slain by Drowned'
+[18Apr2025 21:26:25.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DestroyMarce7[/127.110.79.149:33283] logged in with entity id 5687 at (1118.3136371373814, 74.0, -1061.0754659316638)
+[18Apr2025 21:26:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 joined the game
+[18Apr2025 21:26:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you for playing with ---Arthys' RPG Armory---. You may be playing on an outdated mod so be sure to check for updates regularly on Curseforge and Modrinth [This message can be disabled via gamerule displayUpdateText] .
+[18Apr2025 21:29:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Zombie
+[18Apr2025 21:29:30.818] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:33:38.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Rest In Peace]

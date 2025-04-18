@@ -3667,6 +3667,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -3688,6 +3694,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
     },
     "done": true
   },
@@ -3715,9 +3727,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
     },
     "done": true
   },
@@ -3769,6 +3799,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
@@ -3793,15 +3829,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-18 21:28:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-18 21:28:59 +0000"
     },
     "done": true
   },
@@ -3817,9 +3877,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
     },
     "done": true
   },
@@ -3847,9 +3919,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-04-18 21:12:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
     },
     "done": true
   },
@@ -3871,6 +3955,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -3883,9 +3979,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-18 21:28:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:27:37 +0000"
     },
     "done": true
   },

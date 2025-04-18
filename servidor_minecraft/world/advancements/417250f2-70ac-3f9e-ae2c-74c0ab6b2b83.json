@@ -2018,7 +2018,8 @@
       "minecraft:vindicator": "2025-04-17 02:52:50 +0000",
       "minecraft:spider": "2025-04-17 02:29:08 +0000",
       "minecraft:zombie": "2025-04-17 02:28:24 +0000",
-      "minecraft:drowned": "2025-04-18 21:13:45 +0000"
+      "minecraft:drowned": "2025-04-18 21:13:45 +0000",
+      "minecraft:zombie_villager": "2025-04-18 21:29:16 +0000"
     },
     "done": false
   },
@@ -2248,6 +2249,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 02:44:52 +0000",
       "cooked_beef": "2025-04-17 02:30:50 +0000",
+      "baked_potato": "2025-04-18 21:28:54 +0000",
       "apple": "2025-04-17 03:43:07 +0000",
       "pumpkin_pie": "2025-04-17 03:00:50 +0000",
       "bread": "2025-04-17 03:03:15 +0000",
@@ -3926,118 +3928,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "unearthed_journey:unearthed_journey_ad": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-18 21:24:15 +0000",
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 21:23:28 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-18 21:21:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/maple_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2025-04-18 21:20:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/magnolia_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-18 21:21:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-04-18 21:21:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-18 21:19:46 +0000"
+      "unearthed_journey_ad_0": "2025-04-18 21:06:50 +0000"
     },
     "done": true
   },
@@ -4047,9 +3940,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+  "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
-      "has_planks": "2025-04-18 21:21:47 +0000"
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
     },
     "done": true
   },
@@ -4059,27 +3958,153 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-04-18 21:19:46 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:12:32 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-04-18 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 21:19:46 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-04-18 21:19:46 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-04-18 21:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 21:19:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-04-18 21:20:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-04-18 21:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-18 21:21:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:21:47 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/larch_boat": {
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
     "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
+      "has_planks": "2025-04-18 21:21:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:21:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:21:47 +0000"
     },
     "done": true
   },
@@ -4101,33 +4126,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/blackwood_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:21:47 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-04-18 21:19:46 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/pine_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
     },
     "done": true
   },
@@ -4137,39 +4138,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-18 21:19:46 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:21:47 +0000"
     },
     "done": true
   },
-  "unearthed_journey:unearthed_journey_ad": {
-    "criteria": {
-      "unearthed_journey_ad_0": "2025-04-18 21:06:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:21:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/socotra_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
     },
     "done": true
   },
@@ -4191,63 +4168,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:21:47 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/mauve_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-18 21:21:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/baobab_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2025-04-18 21:20:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/joshua_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 21:12:32 +0000"
     },
     "done": true
   },
