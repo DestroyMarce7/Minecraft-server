@@ -8248,3 +8248,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 21:14:00.560] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_18.04.2025-21.14.00.dat
 [18Apr2025 21:14:00.562] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:1102, y:70, z:-1086, dim:minecraft:overworld]
 [18Apr2025 21:14:00.564] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:16:27.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 21:16:27.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 21:19:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Vindicator
+[18Apr2025 21:19:09.401] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:1114, y:70, z:-1067, dim:minecraft:overworld]
+[18Apr2025 21:19:09.427] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:19:36.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR moved wrongly!
+[18Apr2025 21:21:14.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Cover Me with Diamonds]
+[18Apr2025 21:21:27.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 21:21:27.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 21:22:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was shot by Pillager
+[18Apr2025 21:22:00.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:1103, y:71, z:-1105, dim:minecraft:overworld]
+[18Apr2025 21:22:00.059] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[18Apr2025 21:23:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Zombie
+[18Apr2025 21:23:22.958] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_18.04.2025-21.23.22.dat
+[18Apr2025 21:23:22.960] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:1112, y:63, z:-1051, dim:minecraft:overworld]
+[18Apr2025 21:23:22.964] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:24:17.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 lost connection: Disconnected
+[18Apr2025 21:24:17.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 left the game
+[18Apr2025 21:25:09.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1154, l='ServerLevel[world]', x=1111.71, y=62.51, z=-1041.20] died, message: 'Villager was slain by Drowned'

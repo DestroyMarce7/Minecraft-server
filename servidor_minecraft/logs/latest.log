@@ -2678,3 +2678,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 21:14:00.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR burned to death
 [18Apr2025 21:14:00.560] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_18.04.2025-21.14.00.dat
 [18Apr2025 21:14:00.564] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:19:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Vindicator
+[18Apr2025 21:19:09.427] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:19:36.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR moved wrongly!
+[18Apr2025 21:21:14.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Cover Me with Diamonds]
+[18Apr2025 21:22:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was shot by Pillager
+[18Apr2025 21:22:00.059] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[18Apr2025 21:23:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Zombie
+[18Apr2025 21:23:22.958] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_18.04.2025-21.23.22.dat
+[18Apr2025 21:23:22.964] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 21:24:17.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 lost connection: Disconnected
+[18Apr2025 21:24:17.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 left the game
+[18Apr2025 21:25:09.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1154, l='ServerLevel[world]', x=1111.71, y=62.51, z=-1041.20] died, message: 'Villager was slain by Drowned'
