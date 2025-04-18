@@ -2021,6 +2021,8 @@
       "minecraft:hoglin": "2025-04-17 05:05:03 +0000",
       "minecraft:vindicator": "2025-04-17 02:52:50 +0000",
       "minecraft:spider": "2025-04-17 02:29:08 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 23:48:32 +0000",
+      "minecraft:cave_spider": "2025-04-18 23:52:40 +0000",
       "minecraft:zombie": "2025-04-17 02:28:24 +0000",
       "minecraft:drowned": "2025-04-18 21:13:45 +0000",
       "minecraft:zombie_villager": "2025-04-18 21:29:16 +0000"
@@ -4191,6 +4193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-18 22:07:06 +0000"
@@ -4329,6 +4337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-18 23:48:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-04-18 22:54:31 +0000"
@@ -4353,9 +4367,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:46:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-04-18 23:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:46:55 +0000"
     },
     "done": true
   },
@@ -4416,6 +4442,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-04-18 21:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:46:55 +0000"
     },
     "done": true
   },

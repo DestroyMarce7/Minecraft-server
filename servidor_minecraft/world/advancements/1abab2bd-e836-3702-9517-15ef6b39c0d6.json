@@ -2015,6 +2015,8 @@
       "minecraft:spider": "2025-04-17 04:30:03 +0000",
       "minecraft:creeper": "2025-04-17 02:33:23 +0000",
       "minecraft:witch": "2025-04-18 23:19:17 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 23:48:24 +0000",
+      "minecraft:cave_spider": "2025-04-18 23:52:44 +0000",
       "minecraft:enderman": "2025-04-18 23:03:58 +0000",
       "minecraft:zombie": "2025-04-17 02:36:04 +0000",
       "minecraft:zombie_villager": "2025-04-18 22:01:54 +0000"
@@ -2173,6 +2175,7 @@
       "porkchop": "2025-04-17 04:26:12 +0000",
       "tropical_fish": "2025-04-17 03:11:55 +0000",
       "apple": "2025-04-17 04:33:45 +0000",
+      "pumpkin_pie": "2025-04-18 23:56:27 +0000",
       "bread": "2025-04-17 04:40:30 +0000",
       "rotten_flesh": "2025-04-17 02:31:36 +0000",
       "suspicious_stew": "2025-04-18 21:37:21 +0000",
@@ -3703,6 +3706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-18 23:12:00 +0000"
@@ -3949,6 +3958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-18 23:51:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -3985,6 +4000,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:47:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-04-18 21:08:08 +0000"
@@ -4012,6 +4033,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-04-18 22:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:47:00 +0000"
     },
     "done": true
   },
@@ -4090,6 +4117,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-04-18 23:41:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-18 23:49:19 +0000"
     },
     "done": true
   },
@@ -4207,15 +4240,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-04-18 23:51:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-18 23:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 23:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-18 23:47:00 +0000"
     },
     "done": true
   },
@@ -4411,6 +4462,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-18 23:49:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
@@ -4420,6 +4477,12 @@
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-18 23:49:03 +0000"
     },
     "done": true
   },

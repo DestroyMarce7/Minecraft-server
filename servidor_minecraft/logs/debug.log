@@ -8966,3 +8966,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 23:46:32.092] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [18Apr2025 23:46:32.092] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [18Apr2025 23:46:32.093] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 23:49:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Magic Writing]
+[18Apr2025 23:49:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [I see clearly now]
+[18Apr2025 23:50:10.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Where Is The Stone Pen?]
+[18Apr2025 23:50:20.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56926, l='ServerLevel[world]', x=1000.84, y=79.01, z=-7.70] died: Dinnerbone was slain by DestroyMarce7
+[18Apr2025 23:50:22.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56925, l='ServerLevel[world]', x=1000.38, y=79.01, z=-7.67] died: Dinnerbone was slain by DestroyMarce7
+[18Apr2025 23:50:28.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/57018, l='ServerLevel[world]', x=1004.38, y=79.01, z=-7.63] died: Dinnerbone was slain by AronTR
+[18Apr2025 23:51:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Eye of the Tiger]
+[18Apr2025 23:51:31.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:51:31.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:51:49.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56302, l='ServerLevel[world]', x=1005.93, y=79.01, z=-16.71] died: Dinnerbone was slain by DestroyMarce7
+[18Apr2025 23:56:31.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:56:31.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:56:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR withered away whilst fighting Wither Skeleton
+[18Apr2025 23:56:57.104] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:987, y:82, z:-5, dim:minecraft:overworld]
+[18Apr2025 23:56:57.107] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
