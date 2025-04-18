@@ -2727,3 +2727,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 22:12:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [The Lighthouse]
 [18Apr2025 22:13:12.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3716ms or 74 ticks behind
 [18Apr2025 22:30:58.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Unbreaking X]
+[18Apr2025 22:38:17.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved wrongly!
+[18Apr2025 22:40:38.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 burned to death
+[18Apr2025 22:40:38.759] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[18Apr2025 22:41:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was shot by Sniper
+[18Apr2025 22:41:11.255] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 22:54:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Unbreaking X]

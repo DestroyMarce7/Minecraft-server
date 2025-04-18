@@ -8862,3 +8862,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [18Apr2025 22:31:31.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 22:36:31.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 22:36:31.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 22:38:17.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved wrongly!
+[18Apr2025 22:40:38.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 burned to death
+[18Apr2025 22:40:38.755] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:1361, y:71, z:-1107, dim:minecraft:overworld]
+[18Apr2025 22:40:38.759] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[18Apr2025 22:41:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was shot by Sniper
+[18Apr2025 22:41:11.253] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:1260, y:64, z:-1128, dim:minecraft:overworld]
+[18Apr2025 22:41:11.255] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[18Apr2025 22:41:31.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 22:41:31.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 22:46:31.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 22:46:31.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 22:51:31.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 22:51:31.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 22:54:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Unbreaking X]
+[18Apr2025 22:56:31.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 22:56:31.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

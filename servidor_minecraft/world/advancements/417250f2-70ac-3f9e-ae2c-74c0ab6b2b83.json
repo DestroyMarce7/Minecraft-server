@@ -3403,6 +3403,7 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:preserver": "2025-04-18 22:42:29 +0000",
       "illageandspillage:engineer": "2025-04-17 04:25:59 +0000",
       "illageandspillage:igniter": "2025-04-17 04:23:16 +0000",
       "illageandspillage:crocofang": "2025-04-17 04:23:31 +0000"
@@ -4303,9 +4304,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-18 22:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-04-18 22:07:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-04-18 22:54:31 +0000"
     },
     "done": true
   },
