@@ -1594,10 +1594,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-04-19 00:46:31 +0000",
       "log_spam_fixer": "2025-04-17 02:22:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
