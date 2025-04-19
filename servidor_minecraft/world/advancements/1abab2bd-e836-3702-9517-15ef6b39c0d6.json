@@ -1481,6 +1481,7 @@
       "minecraft:cold_ocean": "2025-04-17 04:19:38 +0000",
       "minecraft:forest": "2025-04-17 03:40:36 +0000",
       "minecraft:lush_caves": "2025-04-17 03:04:20 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-19 02:29:35 +0000",
       "minecraft:ocean": "2025-04-17 04:20:26 +0000",
       "minecraft:flower_forest": "2025-04-18 22:04:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:22:41 +0000",
@@ -2900,6 +2901,7 @@
       "entered_hay_storage": "2025-04-18 22:03:26 +0000",
       "entered_druid_circle": "2025-04-18 23:27:12 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:41 +0000",
+      "entered_sunken_shrine": "2025-04-19 02:28:34 +0000",
       "entered_ruined_building": "2025-04-18 21:37:05 +0000"
     },
     "done": false
@@ -4038,6 +4040,7 @@
       "shrubland": "2025-04-18 21:41:44 +0000",
       "pine_taiga": "2025-04-18 21:53:10 +0000",
       "autumnal_maple_forest": "2025-04-18 23:25:54 +0000",
+      "muddy_river": "2025-04-19 02:28:20 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "poppy_fields": "2025-04-18 23:22:41 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
@@ -4045,12 +4048,14 @@
       "flower_fields": "2025-04-18 22:04:30 +0000",
       "highland_fields": "2025-04-18 23:17:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
+      "towering_cliffs": "2025-04-19 02:46:18 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
       "temperate_grove": "2025-04-18 21:43:36 +0000",
       "cold_river": "2025-04-18 23:15:19 +0000",
       "pumpkin_fields": "2025-04-18 23:38:17 +0000",
       "grassland": "2025-04-18 22:01:09 +0000",
-      "gravel_beach": "2025-04-19 02:06:33 +0000"
+      "gravel_beach": "2025-04-19 02:06:33 +0000",
+      "lupine_plains": "2025-04-19 02:45:19 +0000"
     },
     "done": false
   },
@@ -4060,6 +4065,7 @@
       "shrubland": "2025-04-18 21:41:44 +0000",
       "pine_taiga": "2025-04-18 21:53:10 +0000",
       "autumnal_maple_forest": "2025-04-18 23:25:54 +0000",
+      "muddy_river": "2025-04-19 02:28:20 +0000",
       "willow_forest": "2025-04-18 21:35:40 +0000",
       "poppy_fields": "2025-04-18 23:22:41 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
@@ -4067,12 +4073,14 @@
       "flower_fields": "2025-04-18 22:04:30 +0000",
       "highland_fields": "2025-04-18 23:17:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
+      "towering_cliffs": "2025-04-19 02:46:18 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
       "temperate_grove": "2025-04-18 21:43:36 +0000",
       "cold_river": "2025-04-18 23:15:19 +0000",
       "pumpkin_fields": "2025-04-18 23:38:17 +0000",
       "grassland": "2025-04-18 22:01:09 +0000",
-      "gravel_beach": "2025-04-19 02:06:33 +0000"
+      "gravel_beach": "2025-04-19 02:06:33 +0000",
+      "lupine_plains": "2025-04-19 02:45:19 +0000"
     },
     "done": false
   },
@@ -4550,6 +4558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-19 02:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-04-19 01:07:58 +0000"
@@ -4616,6 +4630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-19 02:18:25 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2025-04-19 01:59:53 +0000"
@@ -4625,6 +4645,12 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-19 02:18:33 +0000"
     },
     "done": true
   },
@@ -4649,6 +4675,12 @@
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-04-19 00:38:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-04-19 02:34:43 +0000"
     },
     "done": true
   },
