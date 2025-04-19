@@ -10588,3 +10588,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [19Apr2025 01:06:36.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65272, l='ServerLevel[world]', x=999.96, y=159.01, z=-30.28] died: Dinnerbone was slain by Dinnerbone
 [19Apr2025 01:06:38.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65789, l='ServerLevel[world]', x=1003.08, y=159.01, z=-26.14] died: Dinnerbone was shot by Dinnerbone
 [19Apr2025 01:07:06.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR moved wrongly!
+[19Apr2025 01:09:54.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65567, l='ServerLevel[world]', x=1001.98, y=159.01, z=-22.76] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:09:57.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65027, l='ServerLevel[world]', x=1004.63, y=159.01, z=-21.16] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:09:58.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/64994, l='ServerLevel[world]', x=1001.45, y=159.01, z=-23.46] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:09:58.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/64513, l='ServerLevel[world]', x=1001.88, y=159.01, z=-24.40] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:01.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/66009, l='ServerLevel[world]', x=1006.19, y=159.01, z=-26.11] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:05.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65390, l='ServerLevel[world]', x=1008.24, y=159.01, z=-22.53] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:07.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65767, l='ServerLevel[world]', x=1004.24, y=159.01, z=-28.68] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:07.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/66130, l='ServerLevel[world]', x=1010.56, y=159.01, z=-24.21] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:08.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65374, l='ServerLevel[world]', x=1008.42, y=159.01, z=-23.97] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:10.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65608, l='ServerLevel[world]', x=1011.70, y=159.01, z=-31.70] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:10:19.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65981, l='ServerLevel[world]', x=1011.61, y=159.01, z=-28.37] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:25.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65505, l='ServerLevel[world]', x=999.32, y=159.01, z=-27.71] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 01:10:28.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65662, l='ServerLevel[world]', x=1002.22, y=159.01, z=-23.13] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:10:28.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65892, l='ServerLevel[world]', x=1000.29, y=159.01, z=-27.93] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:11:29.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved wrongly!
+[19Apr2025 01:11:31.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 01:11:31.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 01:11:36.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65925, l='ServerLevel[world]', x=982.00, y=159.01, z=-18.67] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:11:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wither Skeleton
+[19Apr2025 01:11:53.508] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-01.11.53.dat
+[19Apr2025 01:11:53.508] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:986, y:155, z:-23, dim:minecraft:overworld]
+[19Apr2025 01:11:53.513] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 01:14:06.009] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[19Apr2025 01:14:06.010] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[19Apr2025 01:14:06.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68131, l='ServerLevel[world]', x=1000.30, y=166.90, z=-18.53] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:14:08.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/68102, l='ServerLevel[world]', x=1001.31, y=167.01, z=-18.70] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:14:08.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65690, l='ServerLevel[world]', x=992.14, y=151.01, z=-19.17] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:14:10.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/65146, l='ServerLevel[world]', x=999.30, y=159.01, z=-21.35] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:14:13.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/66328, l='ServerLevel[world]', x=986.70, y=159.01, z=-15.05] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 01:14:14.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR moved wrongly!
+[19Apr2025 01:15:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR withered away whilst fighting Wither Skeleton
+[19Apr2025 01:15:45.007] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-01.15.45.dat
+[19Apr2025 01:15:45.007] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:1002, y:163, z:-23, dim:minecraft:overworld]
+[19Apr2025 01:15:45.009] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 01:16:31.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 01:16:31.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 01:18:54.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Great minds think alike]
