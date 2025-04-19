@@ -3964,6 +3964,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 00:24:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 21:08:07 +0000"
@@ -4240,6 +4246,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-04-19 00:25:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
@@ -4474,9 +4486,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-19 00:24:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-18 21:27:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-04-19 00:25:39 +0000"
     },
     "done": true
   },

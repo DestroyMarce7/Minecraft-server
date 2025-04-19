@@ -15,3 +15,18 @@
 [19Apr2025 00:17:03.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/57265, l='ServerLevel[world]', x=987.78, y=95.01, z=2.70] died: Dinnerbone was slain by AronTR
 [19Apr2025 00:18:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
 [19Apr2025 00:18:10.609] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:20:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wither Skeleton
+[19Apr2025 00:20:57.109] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-00.20.57.dat
+[19Apr2025 00:20:57.116] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 00:20:57.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/59097, l='ServerLevel[world]', x=1004.58, y=111.01, z=-17.37] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:24:16.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 withered away whilst fighting Wither Skeleton
+[19Apr2025 00:24:16.709] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:24:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR withered away whilst fighting Wither Skeleton
+[19Apr2025 00:24:20.510] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-00.24.20.dat
+[19Apr2025 00:24:20.513] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 00:24:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [The Most Useful Key]
+[19Apr2025 00:24:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [A Fast Comeback]
+[19Apr2025 00:25:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Not even afraid of death]
+[19Apr2025 00:25:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Back to childhood]
+[19Apr2025 00:28:12.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
+[19Apr2025 00:28:12.256] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved

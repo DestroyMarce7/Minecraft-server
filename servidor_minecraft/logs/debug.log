@@ -9009,3 +9009,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [19Apr2025 00:18:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
 [19Apr2025 00:18:10.599] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:982, y:93, z:-11, dim:minecraft:overworld]
 [19Apr2025 00:18:10.609] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:20:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wither Skeleton
+[19Apr2025 00:20:57.109] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-00.20.57.dat
+[19Apr2025 00:20:57.110] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:973, y:108, z:-18, dim:minecraft:overworld]
+[19Apr2025 00:20:57.116] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 00:20:57.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/59097, l='ServerLevel[world]', x=1004.58, y=111.01, z=-17.37] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:21:31.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 00:21:31.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 00:24:16.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 withered away whilst fighting Wither Skeleton
+[19Apr2025 00:24:16.708] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:983, y:107, z:-13, dim:minecraft:overworld]
+[19Apr2025 00:24:16.709] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:24:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR withered away whilst fighting Wither Skeleton
+[19Apr2025 00:24:20.510] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-00.24.20.dat
+[19Apr2025 00:24:20.511] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:987, y:107, z:-13, dim:minecraft:overworld]
+[19Apr2025 00:24:20.513] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 00:24:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [The Most Useful Key]
+[19Apr2025 00:24:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [A Fast Comeback]
+[19Apr2025 00:25:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Not even afraid of death]
+[19Apr2025 00:25:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Back to childhood]
+[19Apr2025 00:26:31.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 00:26:31.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 00:28:12.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
+[19Apr2025 00:28:12.252] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:998, y:115, z:-19, dim:minecraft:overworld]
+[19Apr2025 00:28:12.256] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
