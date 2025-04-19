@@ -1472,6 +1472,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-17 03:58:11 +0000",
+      "minecraft:deep_ocean": "2025-04-19 03:07:39 +0000",
       "minecraft:cherry_grove": "2025-04-18 22:18:30 +0000",
       "minecraft:sunflower_plains": "2025-04-19 02:55:40 +0000",
       "minecraft:birch_forest": "2025-04-17 02:40:11 +0000",
@@ -1479,12 +1480,14 @@
       "minecraft:beach": "2025-04-17 03:55:00 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:02 +0000",
       "minecraft:river": "2025-04-17 02:40:02 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-19 03:03:02 +0000",
       "minecraft:stony_shore": "2025-04-18 21:35:37 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:19:38 +0000",
       "minecraft:forest": "2025-04-17 03:40:36 +0000",
       "minecraft:lush_caves": "2025-04-17 03:04:20 +0000",
       "minecraft:deep_cold_ocean": "2025-04-19 02:29:35 +0000",
       "minecraft:ocean": "2025-04-17 04:20:26 +0000",
+      "minecraft:jungle": "2025-04-19 03:02:52 +0000",
       "minecraft:flower_forest": "2025-04-18 22:04:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:22:41 +0000",
       "minecraft:meadow": "2025-04-17 04:40:45 +0000",
@@ -2017,11 +2020,14 @@
       "minecraft:vindicator": "2025-04-17 02:52:49 +0000",
       "minecraft:spider": "2025-04-17 04:30:03 +0000",
       "minecraft:creeper": "2025-04-17 02:33:23 +0000",
+      "minecraft:evoker": "2025-04-19 03:14:53 +0000",
       "minecraft:witch": "2025-04-18 23:19:17 +0000",
       "minecraft:wither_skeleton": "2025-04-18 23:48:24 +0000",
+      "minecraft:husk": "2025-04-19 03:22:47 +0000",
       "minecraft:cave_spider": "2025-04-18 23:52:44 +0000",
       "minecraft:enderman": "2025-04-18 23:03:58 +0000",
       "minecraft:stray": "2025-04-19 02:49:44 +0000",
+      "minecraft:vex": "2025-04-19 03:21:03 +0000",
       "minecraft:zombie": "2025-04-17 02:36:04 +0000",
       "minecraft:zombie_villager": "2025-04-18 22:01:54 +0000"
     },
@@ -2902,6 +2908,7 @@
       "entered_tower_of_the_undead": "2025-04-18 22:06:23 +0000",
       "entered_stables": "2025-04-17 04:36:35 +0000",
       "entered_hay_storage": "2025-04-18 22:03:26 +0000",
+      "entered_pirate_ship": "2025-04-19 03:12:32 +0000",
       "entered_druid_circle": "2025-04-18 23:27:12 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:41 +0000",
       "entered_sunken_shrine": "2025-04-19 02:28:34 +0000",
@@ -4048,6 +4055,7 @@
       "poppy_fields": "2025-04-18 23:22:41 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
       "rocky_meadow": "2025-04-18 21:34:40 +0000",
+      "ochard": "2025-04-19 02:57:44 +0000",
       "flower_fields": "2025-04-18 22:04:30 +0000",
       "highland_fields": "2025-04-18 23:17:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
@@ -4073,6 +4081,7 @@
       "poppy_fields": "2025-04-18 23:22:41 +0000",
       "grassy_beach": "2025-04-18 21:34:59 +0000",
       "rocky_meadow": "2025-04-18 21:34:40 +0000",
+      "ochard": "2025-04-19 02:57:44 +0000",
       "flower_fields": "2025-04-18 22:04:30 +0000",
       "highland_fields": "2025-04-18 23:17:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
@@ -4555,6 +4564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-19 03:26:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
@@ -4591,9 +4606,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-19 03:26:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-04-19 01:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-04-19 03:21:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/blind_shot": {
+    "criteria": {
+      "shot_arrow": "2025-04-19 03:11:59 +0000"
     },
     "done": true
   },
@@ -4627,6 +4660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-19 03:21:32 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-04-19 01:59:53 +0000"
@@ -4636,6 +4675,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-19 03:09:35 +0000"
     },
     "done": true
   },
@@ -4669,9 +4714,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-04-19 03:24:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-04-19 02:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-19 03:24:36 +0000"
     },
     "done": true
   },
@@ -4705,6 +4762,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-04-19 03:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
@@ -4726,6 +4789,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-19 02:13:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-04-19 03:12:32 +0000"
     },
     "done": true
   },

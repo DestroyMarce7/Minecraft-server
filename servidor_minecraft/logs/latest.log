@@ -270,3 +270,27 @@
 [19Apr2025 03:00:20.463] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Apr2025 03:00:20.463] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Apr2025 03:00:20.463] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:03:24.930] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:03:24.930] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:03:24.930] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:03:24.931] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:04:06.187] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:04:06.188] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:04:06.188] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:04:06.188] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:05:08.531] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:05:08.531] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:05:08.531] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:05:08.531] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:06:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [We Just Want our Hat Back]
+[19Apr2025 03:07:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [A Bone to Pick]
+[19Apr2025 03:09:35.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Source of Evil]
+[19Apr2025 03:11:21.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/113442, l='ServerLevel[world]', x=-470.64, y=64.00, z=3601.30] died: Gunnarr was slain by AronTR
+[19Apr2025 03:11:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Blind Shot]
+[19Apr2025 03:12:31.156] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[19Apr2025 03:12:32.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Ahoy Captain]
+[19Apr2025 03:12:33.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Ahoy Captain]
+[19Apr2025 03:14:24.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR moved wrongly!
+[19Apr2025 03:15:07.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR moved wrongly!
+[19Apr2025 03:19:46.499] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:24:36.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [You Need a Mint]

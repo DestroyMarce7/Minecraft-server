@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-17 03:58:10 +0000",
+      "minecraft:deep_ocean": "2025-04-19 03:07:40 +0000",
       "minecraft:sunflower_plains": "2025-04-19 02:55:30 +0000",
       "minecraft:birch_forest": "2025-04-17 02:40:09 +0000",
       "minecraft:windswept_hills": "2025-04-19 02:54:22 +0000",
@@ -15,6 +16,7 @@
       "minecraft:dark_forest": "2025-04-17 02:43:04 +0000",
       "minecraft:sparse_jungle": "2025-04-18 22:01:37 +0000",
       "minecraft:river": "2025-04-17 02:40:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-19 03:03:03 +0000",
       "minecraft:stony_shore": "2025-04-18 21:35:37 +0000",
       "minecraft:dripstone_caves": "2025-04-17 03:01:52 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:19:38 +0000",
@@ -22,6 +24,7 @@
       "minecraft:lush_caves": "2025-04-17 03:04:12 +0000",
       "minecraft:deep_cold_ocean": "2025-04-19 02:29:36 +0000",
       "minecraft:ocean": "2025-04-17 04:20:27 +0000",
+      "minecraft:jungle": "2025-04-19 03:02:52 +0000",
       "minecraft:flower_forest": "2025-04-18 22:04:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 13:00:15 +0000",
       "minecraft:meadow": "2025-04-17 04:41:11 +0000",
@@ -2027,6 +2030,7 @@
       "minecraft:creeper": "2025-04-19 01:53:21 +0000",
       "minecraft:evoker": "2025-04-19 02:32:24 +0000",
       "minecraft:wither_skeleton": "2025-04-18 23:48:32 +0000",
+      "minecraft:husk": "2025-04-19 03:22:55 +0000",
       "minecraft:cave_spider": "2025-04-18 23:52:40 +0000",
       "minecraft:vex": "2025-04-19 02:32:42 +0000",
       "minecraft:zombie": "2025-04-17 02:28:24 +0000",
@@ -2776,6 +2780,7 @@
       "entered_tower_of_the_undead": "2025-04-18 22:06:28 +0000",
       "entered_stables": "2025-04-17 04:36:29 +0000",
       "entered_hay_storage": "2025-04-18 22:03:24 +0000",
+      "entered_pirate_ship": "2025-04-19 03:12:33 +0000",
       "entered_fishing_ship": "2025-04-18 23:38:39 +0000",
       "entered_druid_circle": "2025-04-19 01:24:31 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:32 +0000",
@@ -4214,6 +4219,7 @@
       "poppy_fields": "2025-04-19 01:30:46 +0000",
       "grassy_beach": "2025-04-18 21:34:58 +0000",
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
+      "ochard": "2025-04-19 02:57:47 +0000",
       "flower_fields": "2025-04-18 22:04:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:46 +0000",
       "boreal_forest": "2025-04-19 01:21:38 +0000",
@@ -4239,6 +4245,7 @@
       "poppy_fields": "2025-04-19 01:30:46 +0000",
       "grassy_beach": "2025-04-18 21:34:58 +0000",
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
+      "ochard": "2025-04-19 02:57:47 +0000",
       "flower_fields": "2025-04-18 22:04:29 +0000",
       "magnolia_highlands": "2025-04-18 21:34:46 +0000",
       "boreal_forest": "2025-04-19 01:21:38 +0000",
@@ -4880,6 +4887,96 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-04-19 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-19 03:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-19 03:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-19 03:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-19 03:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-19 03:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-19 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-19 03:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-04-19 03:06:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-04-19 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-04-19 03:06:10 +0000"
     },
     "done": true
   },
