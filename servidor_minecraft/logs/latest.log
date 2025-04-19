@@ -140,3 +140,11 @@
 [19Apr2025 01:15:45.007] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-01.15.45.dat
 [19Apr2025 01:15:45.009] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
 [19Apr2025 01:18:54.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Great minds think alike]
+[19Apr2025 01:19:43.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 lost connection: Disconnected
+[19Apr2025 01:19:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 left the game
+[19Apr2025 01:20:48.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DestroyMarce7[/127.110.79.149:60633] logged in with entity id 70022 at (962.9929052702269, 103.27646269260818, 18.334780101124984)
+[19Apr2025 01:20:48.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 joined the game
+[19Apr2025 01:20:48.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you for playing with ---Arthys' RPG Armory---. You may be playing on an outdated mod so be sure to check for updates regularly on Curseforge and Modrinth [This message can be disabled via gamerule displayUpdateText] .
+[19Apr2025 01:31:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Gravedigger]
+[19Apr2025 01:40:21.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Black or White]
+[19Apr2025 01:41:14.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [A Small Cemetery]
