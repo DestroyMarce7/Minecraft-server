@@ -50,3 +50,17 @@
 [19Apr2025 00:37:49.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 withered away
 [19Apr2025 00:37:49.258] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
 [19Apr2025 00:38:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Spooky Scary Skeleton]
+[19Apr2025 00:40:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 withered away
+[19Apr2025 00:40:24.556] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:42:04.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Spooky Scary Skeleton]
+[19Apr2025 00:44:02.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved wrongly!
+[19Apr2025 00:44:39.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
+[19Apr2025 00:44:39.208] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:46:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
+[19Apr2025 00:46:31.759] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DestroyMarce7 with unique ID travelersbackpack.standard_19.04.2025-00.46.31.dat
+[19Apr2025 00:46:31.772] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:47:29.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 lost connection: Timed out
+[19Apr2025 00:47:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 left the game
+[19Apr2025 00:47:56.003] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@799476be[id=<null>,name=DestroyMarce7,properties={},legacy=false] (/127.110.79.149:45045) lost connection: Disconnected
+[19Apr2025 00:48:00.903] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f2e2cfc[id=<null>,name=DestroyMarce7,properties={},legacy=false] (/127.110.79.149:49269) lost connection: Disconnected
+[19Apr2025 00:48:35.159] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ce437ef[id=<null>,name=DestroyMarce7,properties={},legacy=false] (/127.110.79.149:44605) lost connection: Disconnected

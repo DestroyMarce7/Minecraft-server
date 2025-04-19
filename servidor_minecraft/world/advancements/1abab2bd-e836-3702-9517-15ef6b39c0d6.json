@@ -1594,7 +1594,7 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-04-19 00:36:31 +0000",
+      "requirement": "2025-04-19 00:46:31 +0000",
       "log_spam_fixer": "2025-04-17 02:22:41 +0000"
     },
     "done": true
@@ -4521,6 +4521,24 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-04-19 00:25:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-19 00:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-19 00:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-19 00:38:16 +0000"
     },
     "done": true
   },
