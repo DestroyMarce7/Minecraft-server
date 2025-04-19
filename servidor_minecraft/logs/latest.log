@@ -150,3 +150,15 @@
 [19Apr2025 01:41:14.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [A Small Cemetery]
 [19Apr2025 01:53:31.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was blown up by Creeper
 [19Apr2025 01:53:31.411] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 02:02:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [First Prayer]
+[19Apr2025 02:02:39.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [First Prayer]
+[19Apr2025 02:07:43.861] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:07:43.862] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:07:43.862] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:07:43.862] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:09:05.318] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:09:05.318] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:09:05.318] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:09:05.318] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:10:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [It Came from The Pit]
+[19Apr2025 02:10:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Odd Looking Rocks]
