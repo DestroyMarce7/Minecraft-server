@@ -4944,6 +4944,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-04-19 03:33:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-19 03:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-19 03:09:45 +0000"
@@ -4971,6 +4983,12 @@
   "dungeons_enhanced:ahoy": {
     "criteria": {
       "entered_pirate_ship": "2025-04-19 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-04-19 03:33:09 +0000"
     },
     "done": true
   },
