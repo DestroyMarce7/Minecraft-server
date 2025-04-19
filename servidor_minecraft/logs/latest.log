@@ -30,3 +30,23 @@
 [19Apr2025 00:25:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Back to childhood]
 [19Apr2025 00:28:12.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wither Skeleton
 [19Apr2025 00:28:12.256] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:28:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Your First Receptacle]
+[19Apr2025 00:29:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR withered away whilst fighting Wither Skeleton
+[19Apr2025 00:29:12.215] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-00.29.12.dat
+[19Apr2025 00:29:12.218] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 00:29:19.051] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/60948, l='ServerLevel[world]', x=1006.36, y=127.01, z=-21.80] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:30:47.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/61760, l='ServerLevel[world]', x=1001.66, y=127.01, z=-31.65] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:32:41.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Timed out
+[19Apr2025 00:32:41.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[19Apr2025 00:32:41.851] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 00:32:45.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/61758, l='ServerLevel[world]', x=999.30, y=127.01, z=-21.79] died: Dinnerbone was slain by Dinnerbone
+[19Apr2025 00:32:57.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.82.248.53:46877] logged in with entity id 62503 at (1007.8896665988422, 115.0625, -19.007478992281587)
+[19Apr2025 00:32:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[19Apr2025 00:32:57.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you for playing with ---Arthys' RPG Armory---. You may be playing on an outdated mod so be sure to check for updates regularly on Curseforge and Modrinth [This message can be disabled via gamerule displayUpdateText] .
+[19Apr2025 00:34:47.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/61110, l='ServerLevel[world]', x=982.51, y=127.01, z=-15.17] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:35:39.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/61538, l='ServerLevel[world]', x=986.35, y=127.01, z=-10.30] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:36:24.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/62787, l='ServerLevel[world]', x=987.30, y=125.01, z=3.70] died: Dinnerbone was slain by AronTR
+[19Apr2025 00:36:49.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/61535, l='ServerLevel[world]', x=991.28, y=127.01, z=1.50] died: Dinnerbone was shot by Dinnerbone
+[19Apr2025 00:37:49.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 withered away
+[19Apr2025 00:37:49.258] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 00:38:16.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Spooky Scary Skeleton]
