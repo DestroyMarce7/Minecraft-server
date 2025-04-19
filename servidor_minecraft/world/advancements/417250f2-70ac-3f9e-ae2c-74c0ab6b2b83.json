@@ -2259,8 +2259,10 @@
       "apple": "2025-04-17 03:43:07 +0000",
       "pumpkin_pie": "2025-04-17 03:00:50 +0000",
       "bread": "2025-04-17 03:03:15 +0000",
+      "golden_apple": "2025-04-18 23:56:53 +0000",
       "rotten_flesh": "2025-04-17 02:36:27 +0000",
       "suspicious_stew": "2025-04-18 21:48:46 +0000",
+      "golden_carrot": "2025-04-18 23:56:38 +0000",
       "carrot": "2025-04-18 21:37:37 +0000"
     },
     "done": false
@@ -4253,9 +4255,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-19 00:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 21:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-19 00:00:10 +0000"
     },
     "done": true
   },
@@ -4379,6 +4393,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-04-19 00:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-04-18 23:46:55 +0000"
@@ -4469,6 +4489,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 00:04:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-04-18 21:42:08 +0000",
@@ -4516,6 +4542,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-04-18 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 23:59:07 +0000"
     },
     "done": true
   },
