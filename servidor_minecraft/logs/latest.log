@@ -423,3 +423,43 @@
 [19Apr2025 04:19:20.678] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
 [19Apr2025 04:20:05.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
 [19Apr2025 04:20:05.559] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:23:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR drowned
+[19Apr2025 04:23:45.817] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.23.45.dat
+[19Apr2025 04:23:45.821] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:27:20.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved wrongly!
+[19Apr2025 04:29:26.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-888, y=-48, z=1621} BlockPos{x=-885, y=-52, z=1615}
+[19Apr2025 04:29:29.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved wrongly!
+[19Apr2025 04:29:34.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
+[19Apr2025 04:29:34.801] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.29.34.dat
+[19Apr2025 04:29:34.817] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:30:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
+[19Apr2025 04:30:30.052] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.30.30.dat
+[19Apr2025 04:30:30.065] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:31:54.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Warden
+[19Apr2025 04:31:54.159] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DestroyMarce7 with unique ID travelersbackpack.standard_19.04.2025-04.31.54.dat
+[19Apr2025 04:31:54.173] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 04:33:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has completed the challenge [The Power of the Sun]
+[19Apr2025 04:33:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
+[19Apr2025 04:33:34.403] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.33.34.dat
+[19Apr2025 04:33:34.414] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:34:12.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-755, y=-46, z=1629} BlockPos{x=-756, y=-46, z=1628}
+[19Apr2025 04:34:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Warden
+[19Apr2025 04:34:52.405] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.34.52.dat
+[19Apr2025 04:34:52.416] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:35:54.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
+[19Apr2025 04:35:54.200] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.35.54.dat
+[19Apr2025 04:35:54.216] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:36:37.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=-51, z=1657} BlockPos{x=-687, y=-52, z=1658}
+[19Apr2025 04:38:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
+[19Apr2025 04:38:18.954] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.38.18.dat
+[19Apr2025 04:38:18.968] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:39:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was obliterated by a sonically-charged shriek
+[19Apr2025 04:39:15.506] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AronTR with unique ID travelersbackpack.standard_19.04.2025-04.39.15.dat
+[19Apr2025 04:39:15.515] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:41:22.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=-52, z=1583} BlockPos{x=-795, y=-51, z=1583}
+[19Apr2025 04:41:22.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=-52, z=1583} BlockPos{x=-795, y=-51, z=1583}
+[19Apr2025 04:41:22.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=-52, z=1583} BlockPos{x=-795, y=-52, z=1583}
+[19Apr2025 04:42:04.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-788, y=-52, z=1585} BlockPos{x=-786, y=-51, z=1585}
+[19Apr2025 04:42:17.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [A little cleaning is necessary]
+[19Apr2025 04:42:53.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-767, y=-47, z=1592} BlockPos{x=-766, y=-49, z=1592}
+[19Apr2025 04:43:49.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Into Darkness]
