@@ -1473,7 +1473,9 @@
     "criteria": {
       "minecraft:taiga": "2025-04-17 03:58:11 +0000",
       "minecraft:cherry_grove": "2025-04-18 22:18:30 +0000",
+      "minecraft:sunflower_plains": "2025-04-19 02:55:40 +0000",
       "minecraft:birch_forest": "2025-04-17 02:40:11 +0000",
+      "minecraft:windswept_hills": "2025-04-19 02:54:22 +0000",
       "minecraft:beach": "2025-04-17 03:55:00 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:02 +0000",
       "minecraft:river": "2025-04-17 02:40:02 +0000",
@@ -2019,6 +2021,7 @@
       "minecraft:wither_skeleton": "2025-04-18 23:48:24 +0000",
       "minecraft:cave_spider": "2025-04-18 23:52:44 +0000",
       "minecraft:enderman": "2025-04-18 23:03:58 +0000",
+      "minecraft:stray": "2025-04-19 02:49:44 +0000",
       "minecraft:zombie": "2025-04-17 02:36:04 +0000",
       "minecraft:zombie_villager": "2025-04-18 22:01:54 +0000"
     },
@@ -4546,6 +4549,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-04-19 02:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
@@ -4591,6 +4600,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-19 02:46:41 +0000"
     },
     "done": true
   },

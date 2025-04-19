@@ -8,7 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-17 03:58:10 +0000",
+      "minecraft:sunflower_plains": "2025-04-19 02:55:30 +0000",
       "minecraft:birch_forest": "2025-04-17 02:40:09 +0000",
+      "minecraft:windswept_hills": "2025-04-19 02:54:22 +0000",
       "minecraft:beach": "2025-04-17 03:55:01 +0000",
       "minecraft:dark_forest": "2025-04-17 02:43:04 +0000",
       "minecraft:sparse_jungle": "2025-04-18 22:01:37 +0000",
@@ -4863,94 +4865,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-19 02:48:34 +0000",
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 02:48:33 +0000"
-    },
-    "done": false
-  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-04-19 02:35:47 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-04-19 02:47:32 +0000"
-    },
-    "done": true
-  },
   "naturalist:recipes/naturalist/teddy_bear": {
     "criteria": {
       "has_bear_fur": "2025-04-19 02:40:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-19 02:47:32 +0000"
     },
     "done": true
   },
