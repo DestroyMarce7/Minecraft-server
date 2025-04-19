@@ -2032,6 +2032,7 @@
       "minecraft:wither_skeleton": "2025-04-18 23:48:32 +0000",
       "minecraft:husk": "2025-04-19 03:22:55 +0000",
       "minecraft:cave_spider": "2025-04-18 23:52:40 +0000",
+      "minecraft:enderman": "2025-04-19 03:56:35 +0000",
       "minecraft:vex": "2025-04-19 02:32:42 +0000",
       "minecraft:zombie": "2025-04-17 02:28:24 +0000",
       "minecraft:drowned": "2025-04-18 21:13:45 +0000",
@@ -2780,6 +2781,7 @@
       "entered_tower_of_the_undead": "2025-04-18 22:06:28 +0000",
       "entered_stables": "2025-04-17 04:36:29 +0000",
       "entered_hay_storage": "2025-04-18 22:03:24 +0000",
+      "entered_flying_dutchman": "2025-04-19 03:54:47 +0000",
       "entered_pirate_ship": "2025-04-19 03:12:33 +0000",
       "entered_fishing_ship": "2025-04-18 23:38:39 +0000",
       "entered_druid_circle": "2025-04-19 01:24:31 +0000",
@@ -4221,6 +4223,7 @@
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
       "ochard": "2025-04-19 02:57:47 +0000",
       "flower_fields": "2025-04-18 22:04:29 +0000",
+      "maple_forest": "2025-04-19 03:53:31 +0000",
       "magnolia_highlands": "2025-04-18 21:34:46 +0000",
       "boreal_forest": "2025-04-19 01:21:38 +0000",
       "towering_cliffs": "2025-04-19 02:46:30 +0000",
@@ -4247,6 +4250,7 @@
       "rocky_meadow": "2025-04-18 21:34:35 +0000",
       "ochard": "2025-04-19 02:57:47 +0000",
       "flower_fields": "2025-04-18 22:04:29 +0000",
+      "maple_forest": "2025-04-19 03:53:31 +0000",
       "magnolia_highlands": "2025-04-18 21:34:46 +0000",
       "boreal_forest": "2025-04-19 01:21:38 +0000",
       "towering_cliffs": "2025-04-19 02:46:30 +0000",
@@ -4890,9 +4894,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-19 03:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
     },
     "done": true
   },
@@ -4902,9 +4918,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-19 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 03:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
     },
     "done": true
   },
@@ -4920,9 +4960,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-19 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 03:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
     },
     "done": true
   },
@@ -4938,15 +5038,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-04-19 03:27:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-04-19 03:33:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
     },
     "done": true
   },
@@ -4968,6 +5092,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 03:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-19 03:06:11 +0000"
@@ -4980,9 +5116,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-04-19 03:06:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2025-04-19 03:54:47 +0000"
     },
     "done": true
   },

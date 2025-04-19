@@ -372,3 +372,21 @@
 [19Apr2025 03:51:41.414] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Apr2025 03:51:41.414] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Apr2025 03:51:41.414] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 03:54:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Flying in the Air]
+[19Apr2025 03:54:49.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Flying in the Air]
+[19Apr2025 03:54:53.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hendrick Van der Decken'/130032, l='ServerLevel[world]', x=-712.38, y=143.00, z=2452.46] died: Hendrick Van der Decken was slain by DestroyMarce7
+[19Apr2025 03:58:27.829] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.745] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.745] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.745] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.745] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.745] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.745] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.746] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 03:58:28.746] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[19Apr2025 04:00:15.892] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:00:15.893] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:00:15.894] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:00:15.894] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:01:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Sneak 100]
+[19Apr2025 04:02:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Sneak 100]

@@ -2908,6 +2908,7 @@
       "entered_tower_of_the_undead": "2025-04-18 22:06:23 +0000",
       "entered_stables": "2025-04-17 04:36:35 +0000",
       "entered_hay_storage": "2025-04-18 22:03:26 +0000",
+      "entered_flying_dutchman": "2025-04-19 03:54:49 +0000",
       "entered_pirate_ship": "2025-04-19 03:12:32 +0000",
       "entered_druid_circle": "2025-04-18 23:27:12 +0000",
       "entered_large_dungeon": "2025-04-17 03:29:41 +0000",
@@ -4058,6 +4059,7 @@
       "ochard": "2025-04-19 02:57:44 +0000",
       "flower_fields": "2025-04-18 22:04:30 +0000",
       "highland_fields": "2025-04-18 23:17:29 +0000",
+      "maple_forest": "2025-04-19 03:53:38 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
       "towering_cliffs": "2025-04-19 02:46:18 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
@@ -4084,6 +4086,7 @@
       "ochard": "2025-04-19 02:57:44 +0000",
       "flower_fields": "2025-04-18 22:04:30 +0000",
       "highland_fields": "2025-04-18 23:17:29 +0000",
+      "maple_forest": "2025-04-19 03:53:38 +0000",
       "magnolia_highlands": "2025-04-18 21:34:48 +0000",
       "towering_cliffs": "2025-04-19 02:46:18 +0000",
       "bamboo_forest": "2025-04-18 22:01:18 +0000",
@@ -4546,6 +4549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-19 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-19 01:18:22 +0000"
@@ -4558,6 +4567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-04-19 02:51:18 +0000"
@@ -4567,6 +4582,18 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-19 03:26:29 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-04-19 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
     },
     "done": true
   },
@@ -4588,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-19 03:42:25 +0000"
@@ -4603,6 +4636,12 @@
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-04-19 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
     },
     "done": true
   },
@@ -4636,6 +4675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-04-19 03:42:25 +0000"
@@ -4654,9 +4699,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
     },
     "done": true
   },
@@ -4702,9 +4759,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
     },
     "done": true
   },
@@ -4720,6 +4795,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
@@ -4729,6 +4822,18 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-04-19 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
     },
     "done": true
   },
@@ -4774,6 +4879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-19 01:08:42 +0000"
@@ -4795,6 +4906,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-04-19 02:34:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
     },
     "done": true
   },
@@ -4870,9 +4987,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-19 03:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2025-04-19 03:54:49 +0000"
     },
     "done": true
   },
