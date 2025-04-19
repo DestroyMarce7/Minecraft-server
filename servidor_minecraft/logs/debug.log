@@ -13510,3 +13510,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [19Apr2025 04:01:41.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Apr2025 04:01:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Sneak 100]
 [19Apr2025 04:02:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Sneak 100]
+[19Apr2025 04:06:41.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 04:06:41.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 04:06:53.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-788, y=-50, z=1678} BlockPos{x=-788, y=-51, z=1678}
+[19Apr2025 04:08:10.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was obliterated by a sonically-charged shriek
+[19Apr2025 04:08:10.548] [Server thread/DEBUG] [tombstone/]: A new grave of the player DestroyMarce7 was created at position [x:-804, y:-51, z:1692, dim:minecraft:overworld]
+[19Apr2025 04:08:10.555] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 04:08:29.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Warden
+[19Apr2025 04:08:29.510] [Server thread/DEBUG] [tombstone/]: A new grave of the player AronTR was created at position [x:-791, y:-51, z:1672, dim:minecraft:overworld]
+[19Apr2025 04:08:29.522] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:11:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Amateur Archaeologist]
+[19Apr2025 04:11:41.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 04:11:41.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 04:12:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [It Spreads]

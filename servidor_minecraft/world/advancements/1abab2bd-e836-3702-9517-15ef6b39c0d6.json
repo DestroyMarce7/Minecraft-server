@@ -1490,6 +1490,7 @@
       "minecraft:jungle": "2025-04-19 03:02:52 +0000",
       "minecraft:flower_forest": "2025-04-18 22:04:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:22:41 +0000",
+      "minecraft:deep_dark": "2025-04-19 04:01:44 +0000",
       "minecraft:meadow": "2025-04-17 04:40:45 +0000",
       "minecraft:savanna": "2025-04-18 22:02:42 +0000",
       "minecraft:plains": "2025-04-17 04:20:38 +0000"
@@ -2191,6 +2192,7 @@
       "golden_apple": "2025-04-19 00:28:13 +0000",
       "rotten_flesh": "2025-04-17 02:31:36 +0000",
       "suspicious_stew": "2025-04-18 21:37:21 +0000",
+      "golden_carrot": "2025-04-19 04:04:59 +0000",
       "cooked_chicken": "2025-04-17 02:45:39 +0000"
     },
     "done": false
@@ -4990,6 +4992,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-19 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-19 04:02:00 +0000"
     },
     "done": true
   },

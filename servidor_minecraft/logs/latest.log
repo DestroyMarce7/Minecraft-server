@@ -390,3 +390,10 @@
 [19Apr2025 04:00:15.894] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Apr2025 04:01:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Sneak 100]
 [19Apr2025 04:02:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Sneak 100]
+[19Apr2025 04:06:53.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-788, y=-50, z=1678} BlockPos{x=-788, y=-51, z=1678}
+[19Apr2025 04:08:10.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was obliterated by a sonically-charged shriek
+[19Apr2025 04:08:10.555] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[19Apr2025 04:08:29.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Warden
+[19Apr2025 04:08:29.522] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[19Apr2025 04:11:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Amateur Archaeologist]
+[19Apr2025 04:12:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [It Spreads]
