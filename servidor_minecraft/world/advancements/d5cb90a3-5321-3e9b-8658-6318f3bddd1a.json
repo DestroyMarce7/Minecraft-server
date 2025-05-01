@@ -65,6 +65,7 @@
       "minecraft:river": "2025-05-01 16:16:05 +0000",
       "minecraft:snowy_plains": "2025-05-01 15:49:28 +0000",
       "minecraft:snowy_taiga": "2025-05-01 15:49:59 +0000",
+      "minecraft:cold_ocean": "2025-05-01 22:11:41 +0000",
       "minecraft:forest": "2025-05-01 16:10:39 +0000",
       "minecraft:deep_cold_ocean": "2025-05-01 15:59:21 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-01 15:54:53 +0000",
@@ -191,6 +192,7 @@
       "minecraft:skeleton": "2025-05-01 16:14:09 +0000",
       "minecraft:spider": "2025-05-01 16:12:12 +0000",
       "minecraft:creeper": "2025-05-01 19:02:03 +0000",
+      "quark:forgotten": "2025-05-01 22:17:27 +0000",
       "minecraft:witch": "2025-05-01 16:31:31 +0000",
       "minecraft:cave_spider": "2025-05-01 16:31:24 +0000",
       "minecraft:zombie": "2025-05-01 16:14:10 +0000",
@@ -258,6 +260,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-05-01 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-01 22:16:57 +0000"
     },
     "done": true
   },
