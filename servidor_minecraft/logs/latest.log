@@ -1127,3 +1127,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01May2025 22:21:32.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> cuales
 [01May2025 22:21:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> te mando fot
 [01May2025 22:21:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ok
+[01May2025 22:22:09.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was caught by Archevoker's fangs
+[01May2025 22:22:17.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was doomed to fall by Archevoker
+[01May2025 22:22:23.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46661, l='ServerLevel[world]', x=-2690.50, y=75.00, z=-3978.50]
+[01May2025 22:22:32.693] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46741, l='ServerLevel[world]', x=-2692.50, y=71.00, z=-3988.50]
+[01May2025 22:22:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya te pasé
+[01May2025 22:22:45.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10110, l='ServerLevel[world]', x=879.06, y=76.00, z=-3181.88] died, message: 'Farmer hit the ground too hard'
+[01May2025 22:22:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ando en 865 101 -3265
+[01May2025 22:22:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was eviscerated by Archevoker's vexes
+[01May2025 22:23:02.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> golpeo 4 como funciona
+[01May2025 22:23:08.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> es para los no muertos
+[01May2025 22:23:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> zombies, esqueletos y así
+[01May2025 22:23:22.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> joder
+[01May2025 22:23:26.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ya voy
+[01May2025 22:23:29.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> ahi arreglamos
+[01May2025 22:23:32.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya
+[01May2025 22:23:42.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tienes algún disco?
+[01May2025 22:23:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> nd
+[01May2025 22:24:03.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has completed the challenge [Premium!]
+[01May2025 22:24:09.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has completed the challenge [Premium!]
+[01May2025 22:24:09.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Tools of the Trade]
+[01May2025 22:27:14.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01May2025 22:27:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Not Today, Thank You]
+[01May2025 22:27:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Not Today, Thank You]
+[01May2025 22:27:56.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01May2025 22:28:21.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01May2025 22:28:33.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was killed by Necromancer's magic missile
+[01May2025 22:28:36.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XD
+[01May2025 22:29:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Campfire Song Song]
+[01May2025 22:29:23.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01May2025 22:29:41.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[01May2025 22:30:33.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01May2025 22:31:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Take Aim]
+[01May2025 22:31:24.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Cover Me In Emeralds]
+[01May2025 22:31:24.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [The Beginning of An Adventure]
+[01May2025 22:31:39.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [How long's this been here?]
+[01May2025 22:31:47.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
