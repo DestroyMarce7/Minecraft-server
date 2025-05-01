@@ -60,6 +60,8 @@
       "minecraft:sunflower_plains": "2025-05-01 22:16:59 +0000",
       "minecraft:birch_forest": "2025-05-01 22:01:47 +0000",
       "minecraft:beach": "2025-05-01 22:01:27 +0000",
+      "minecraft:stony_peaks": "2025-05-01 22:56:31 +0000",
+      "minecraft:sparse_jungle": "2025-05-01 22:56:03 +0000",
       "minecraft:river": "2025-05-01 22:16:55 +0000",
       "minecraft:snowy_plains": "2025-05-01 15:01:05 +0000",
       "minecraft:dripstone_caves": "2025-05-01 21:37:22 +0000",
@@ -69,6 +71,7 @@
       "minecraft:deep_frozen_ocean": "2025-05-01 21:45:58 +0000",
       "minecraft:ocean": "2025-05-01 22:00:55 +0000",
       "minecraft:flower_forest": "2025-05-01 22:05:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-01 22:55:50 +0000",
       "minecraft:plains": "2025-05-01 22:03:39 +0000"
     },
     "done": false
@@ -137,6 +140,12 @@
       "minecraft:zombie": "2025-05-01 22:26:47 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-01 23:01:07 +0000"
+    },
+    "done": true
   },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
@@ -253,6 +262,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-05-01 22:21:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-05-01 22:57:43 +0000"
     },
     "done": true
   },
