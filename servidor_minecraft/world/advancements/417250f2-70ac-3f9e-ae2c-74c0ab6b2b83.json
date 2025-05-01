@@ -91,6 +91,12 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-01 23:51:53 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-05-01 22:19:24 +0000"

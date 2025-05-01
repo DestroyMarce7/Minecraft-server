@@ -282,6 +282,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-05-01 21:54:01 +0000"
@@ -352,6 +358,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000",
       "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
     },
     "done": false
