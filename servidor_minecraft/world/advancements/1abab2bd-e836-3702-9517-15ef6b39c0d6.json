@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-01 23:07:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:ravager": "2025-05-01 22:20:05 +0000"
@@ -115,6 +121,7 @@
       "minecraft:ocean": "2025-05-01 22:00:53 +0000",
       "minecraft:flower_forest": "2025-05-01 22:05:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 22:55:48 +0000",
+      "minecraft:savanna": "2025-05-01 23:02:23 +0000",
       "minecraft:plains": "2025-05-01 22:03:38 +0000"
     },
     "done": false
@@ -124,6 +131,12 @@
       "log_spam_fixer": "2025-05-01 21:38:21 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-01 23:10:17 +0000"
+    },
+    "done": true
   },
   "veggiesdelight:main/root": {
     "criteria": {

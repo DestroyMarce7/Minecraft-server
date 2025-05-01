@@ -192,11 +192,15 @@
       "minecraft:pillager": "2025-05-01 22:29:20 +0000",
       "minecraft:skeleton": "2025-05-01 16:14:09 +0000",
       "minecraft:spider": "2025-05-01 16:12:12 +0000",
+      "minecraft:piglin_brute": "2025-05-01 23:09:10 +0000",
       "minecraft:creeper": "2025-05-01 19:02:03 +0000",
       "quark:forgotten": "2025-05-01 22:17:27 +0000",
       "minecraft:witch": "2025-05-01 16:31:31 +0000",
       "minecraft:cave_spider": "2025-05-01 16:31:24 +0000",
+      "minecraft:piglin": "2025-05-01 23:09:23 +0000",
+      "minecraft:enderman": "2025-05-01 23:06:31 +0000",
       "minecraft:zombie": "2025-05-01 16:14:10 +0000",
+      "quark:foxhound": "2025-05-01 23:07:05 +0000",
       "minecraft:zombie_villager": "2025-05-01 19:03:13 +0000"
     },
     "done": false
@@ -265,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-01 23:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-05-01 22:16:57 +0000"
@@ -295,6 +305,24 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 23:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-01 23:06:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-01 23:04:44 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "dirt": "2025-05-01 21:37:15 +0000",
@@ -302,15 +330,45 @@
     },
     "done": false
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-01 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
+    },
+    "done": true
+  },
   "takesapillage:pillager_camp": {
     "criteria": {
       "in_pillager_camp": "2025-05-01 22:29:04 +0000"
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-01 23:04:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-05-01 21:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-01 23:09:25 +0000"
     },
     "done": true
   },
