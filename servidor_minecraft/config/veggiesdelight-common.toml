@@ -1,0 +1,9 @@
+
+["Villager Settings"]
+	#Enable Veggies delight villager trades
+	enableVillagerTrades = true
+
+["Village Settings"]
+	#Enable or disable Veggies Delight village structures
+	generateVillageStructures = true
+
