@@ -1,4 +1,10 @@
 {
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-01 22:33:20 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/moss": {
     "criteria": {
       "apple": "2025-05-01 21:50:35 +0000"
@@ -59,6 +65,7 @@
       "minecraft:ravager": "2025-05-01 22:20:05 +0000",
       "minecraft:vindicator": "2025-05-01 22:20:49 +0000",
       "minecraft:spider": "2025-05-01 22:25:46 +0000",
+      "minecraft:enderman": "2025-05-01 22:38:33 +0000",
       "minecraft:zombie": "2025-05-01 22:22:33 +0000"
     },
     "done": false

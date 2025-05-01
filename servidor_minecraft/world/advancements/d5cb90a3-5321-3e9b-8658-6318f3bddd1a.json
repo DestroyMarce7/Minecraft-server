@@ -228,6 +228,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2025-05-01 16:31:38 +0000",
+      "illager_head": "2025-05-01 22:29:41 +0000",
       "skeleton_skull": "2025-05-01 16:14:16 +0000",
       "witch_head": "2025-05-01 16:33:35 +0000",
       "cave_spider_head": "2025-05-01 16:33:30 +0000"
@@ -264,12 +265,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-01 22:29:38 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-05-01 22:16:57 +0000"
@@ -279,6 +274,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-05-01 21:54:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-05-01 22:31:39 +0000"
     },
     "done": true
   },
@@ -310,6 +311,24 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-05-01 21:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 22:31:02 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-05-01 22:31:24 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-05-01 22:31:24 +0000"
     },
     "done": true
   },
