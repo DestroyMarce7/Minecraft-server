@@ -191,6 +191,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-01 22:29:20 +0000",
       "minecraft:skeleton": "2025-05-01 16:14:09 +0000",
+      "minecraft:magma_cube": "2025-05-01 23:18:04 +0000",
       "minecraft:spider": "2025-05-01 16:12:12 +0000",
       "minecraft:piglin_brute": "2025-05-01 23:09:10 +0000",
       "minecraft:creeper": "2025-05-01 19:02:03 +0000",
@@ -299,9 +300,21 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-01 23:35:46 +0000"
+    },
+    "done": true
+  },
   "veggiesdelight:main/fruit_veggie": {
     "criteria": {
       "fruit": "2025-05-01 21:42:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-05-01 23:20:22 +0000"
     },
     "done": true
   },
@@ -313,6 +326,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-01 23:34:45 +0000",
       "minecraft:nether_wastes": "2025-05-01 23:06:56 +0000"
     },
     "done": false
@@ -341,6 +355,12 @@
       "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-01 23:41:08 +0000"
+    },
+    "done": true
   },
   "incendium:misc/root": {
     "criteria": {

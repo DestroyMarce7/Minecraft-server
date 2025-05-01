@@ -1318,3 +1318,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01May2025 23:12:29.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2754ms or 55 ticks behind
 [01May2025 23:12:55.521] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [01May2025 23:13:25.553] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01May2025 23:14:23.343] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01May2025 23:15:21.507] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01May2025 23:15:21.507] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01May2025 23:15:21.508] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01May2025 23:15:21.508] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01May2025 23:15:21.508] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01May2025 23:17:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Cursed Pyramid]
+[01May2025 23:17:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Cursed Pyramid]
+[01May2025 23:20:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [A New Protector...]
+[01May2025 23:20:59.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Kobolediator
+[01May2025 23:21:06.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Kobolediator
+[01May2025 23:21:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Kobolediator
+[01May2025 23:21:30.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Kobolediator
+[01May2025 23:22:43.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 walked into fire whilst fighting Koboleton
+[01May2025 23:30:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> alguien tiene cobre?
+[01May2025 23:30:36.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AronTR> y plumas
+[01May2025 23:30:40.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> o mas bien un cincel
+[01May2025 23:31:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Koboleton
+[01May2025 23:31:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was burnt to a crisp whilst fighting Koboleton
+[01May2025 23:32:20.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Koboleton
+[01May2025 23:33:07.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> yo tengo
+[01May2025 23:33:14.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> que tienes
+[01May2025 23:33:20.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> cobre
+[01May2025 23:33:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> plumas no
+[01May2025 23:33:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Fortune Seeker]
+[01May2025 23:33:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [The Beginning of An Adventure]
+[01May2025 23:34:18.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> te doy algo a cambio si me haces un pincel
+[01May2025 23:34:41.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> toy en el nether
+[01May2025 23:35:42.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Koboleton
+[01May2025 23:35:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [The Soul Forge]
+[01May2025 23:36:00.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wadjet
+[01May2025 23:36:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 walked into fire whilst fighting Koboleton
+[01May2025 23:36:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 went up in flames
+[01May2025 23:36:39.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> sanaso
+[01May2025 23:36:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> imbecil
+[01May2025 23:36:51.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Amateur Archaeologist]
+[01May2025 23:36:54.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wadjet
+[01May2025 23:39:46.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: You logged in from another location
+[01May2025 23:39:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[01May2025 23:39:46.552] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 23:39:46.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.247.184.99:36615] logged in with entity id 105088 at (-2347.332581176775, 76.0, -6230.388879798508)
+[01May2025 23:39:46.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to AronTR
+[01May2025 23:39:46.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to AronTR
+[01May2025 23:39:46.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to AronTR
+[01May2025 23:39:46.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to AronTR
+[01May2025 23:39:46.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to AronTR
+[01May2025 23:39:46.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to AronTR
+[01May2025 23:39:46.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to AronTR
+[01May2025 23:39:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[01May2025 23:39:46.637] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[01May2025 23:40:14.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wadjet
+[01May2025 23:40:26.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> les ayudo?
+[01May2025 23:40:28.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR walked into fire whilst fighting Wadjet
+[01May2025 23:40:39.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wadjet
+[01May2025 23:41:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wadjet
+[01May2025 23:41:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wadjet
+[01May2025 23:41:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Hidden in the Depths]
+[01May2025 23:41:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Wadjet
+[01May2025 23:41:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 walked into fire whilst fighting Wadjet
+[01May2025 23:41:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wadjet
+[01May2025 23:41:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Wadjet
+[01May2025 23:42:22.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was shot by entity.cataclysm.poison_dart
+[01May2025 23:42:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DestroyMarce7 to AronTR
+[01May2025 23:43:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was doomed to fall by Koboleton
+[01May2025 23:43:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DestroyMarce7 to AronTR
+[01May2025 23:44:15.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was doomed to fall by Zombie

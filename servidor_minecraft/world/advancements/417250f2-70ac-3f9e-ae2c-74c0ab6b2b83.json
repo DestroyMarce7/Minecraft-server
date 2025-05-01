@@ -59,6 +59,7 @@
       "minecraft:cherry_grove": "2025-05-01 22:50:19 +0000",
       "minecraft:sunflower_plains": "2025-05-01 22:16:59 +0000",
       "minecraft:birch_forest": "2025-05-01 22:01:47 +0000",
+      "minecraft:wooded_badlands": "2025-05-01 23:16:48 +0000",
       "minecraft:beach": "2025-05-01 22:01:27 +0000",
       "minecraft:stony_peaks": "2025-05-01 22:56:31 +0000",
       "minecraft:sparse_jungle": "2025-05-01 22:56:03 +0000",
@@ -68,6 +69,7 @@
       "minecraft:snowy_taiga": "2025-05-01 21:45:57 +0000",
       "minecraft:forest": "2025-05-01 22:02:16 +0000",
       "minecraft:deep_cold_ocean": "2025-05-01 21:52:59 +0000",
+      "minecraft:desert": "2025-05-01 23:16:21 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-01 21:45:58 +0000",
       "minecraft:ocean": "2025-05-01 22:00:55 +0000",
       "minecraft:flower_forest": "2025-05-01 22:05:33 +0000",
@@ -166,6 +168,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-01 23:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-05-01 21:37:26 +0000"
@@ -242,6 +250,24 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-01 23:33:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-05-01 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-01 23:23:35 +0000"
+    },
+    "done": false
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-05-01 22:20:55 +0000"
@@ -281,6 +307,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-05-01 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2025-05-01 23:33:38 +0000"
     },
     "done": true
   },
