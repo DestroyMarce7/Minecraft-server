@@ -157,7 +157,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-05-01 16:01:57 +0000",
-      "apple": "2025-05-01 16:01:49 +0000"
+      "apple": "2025-05-01 16:01:49 +0000",
+      "bread": "2025-05-01 21:37:45 +0000"
     },
     "done": false
   },
@@ -257,6 +258,31 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-05-01 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/eat": {
+    "criteria": {
+      "eat": "2025-05-01 21:43:43 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/fruit_veggie": {
+    "criteria": {
+      "fruit": "2025-05-01 21:42:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-05-01 21:37:15 +0000",
+      "silt": "2025-05-01 21:39:12 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-01 21:42:30 +0000"
     },
     "done": true
   },

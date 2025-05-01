@@ -1,0 +1,186 @@
+{
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:38:21 +0000"
+    },
+    "done": false
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:38:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-01 21:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-01 21:42:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-05-01 21:39:15 +0000",
+      "minecraft:snowy_plains": "2025-05-01 21:38:21 +0000",
+      "minecraft:snowy_taiga": "2025-05-01 21:39:18 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-01 21:45:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:38:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "veggiesdelight:main/root": {
+    "criteria": {
+      "veggies": "2025-05-01 21:39:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:38:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-01 21:44:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-01 21:39:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "combat_manual:grant_book": {
+    "criteria": {
+      "tick": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-01 21:39:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-05-01 21:38:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
