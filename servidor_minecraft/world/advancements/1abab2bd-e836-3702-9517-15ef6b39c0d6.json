@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-01 22:04:32 +0000"
+    },
+    "done": true
+  },
   "veggiesdelight:main/first_veggie": {
     "criteria": {
       "first": "2025-05-01 21:50:45 +0000"
@@ -49,13 +55,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
@@ -67,13 +73,13 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
@@ -81,10 +87,16 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-05-01 21:55:51 +0000",
       "minecraft:frozen_river": "2025-05-01 21:39:15 +0000",
+      "minecraft:birch_forest": "2025-05-01 22:01:47 +0000",
+      "minecraft:beach": "2025-05-01 22:01:27 +0000",
       "minecraft:snowy_plains": "2025-05-01 21:38:21 +0000",
       "minecraft:snowy_taiga": "2025-05-01 21:39:18 +0000",
+      "minecraft:forest": "2025-05-01 22:02:08 +0000",
       "minecraft:deep_cold_ocean": "2025-05-01 21:52:59 +0000",
-      "minecraft:deep_frozen_ocean": "2025-05-01 21:45:59 +0000"
+      "minecraft:deep_frozen_ocean": "2025-05-01 21:45:59 +0000",
+      "minecraft:ocean": "2025-05-01 22:00:53 +0000",
+      "minecraft:flower_forest": "2025-05-01 22:05:33 +0000",
+      "minecraft:plains": "2025-05-01 22:03:38 +0000"
     },
     "done": false
   },
@@ -96,13 +108,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
@@ -114,9 +126,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2025-05-01 21:55:15 +0000"
+      "potato": "2025-05-01 21:55:15 +0000",
+      "bread": "2025-05-01 22:05:57 +0000",
+      "dried_kelp": "2025-05-01 21:57:45 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "has_tomahawk": "2025-05-01 22:04:12 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -138,7 +158,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
@@ -150,13 +170,19 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-01 21:58:28 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
@@ -198,19 +224,19 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
+      "log_spam_fixer": "2025-05-01 22:08:13 +0000"
     },
     "done": false
   },

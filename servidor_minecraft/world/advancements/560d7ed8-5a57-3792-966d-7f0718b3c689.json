@@ -125,7 +125,8 @@
       "cooked_porkchop": "2025-05-01 15:12:49 +0000",
       "cooked_mutton": "2025-05-01 15:16:12 +0000",
       "cooked_beef": "2025-05-01 16:19:50 +0000",
-      "rotten_flesh": "2025-05-01 15:37:12 +0000"
+      "rotten_flesh": "2025-05-01 15:37:12 +0000",
+      "cooked_salmon": "2025-05-01 22:05:24 +0000"
     },
     "done": false
   },
@@ -242,15 +243,33 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-05-01 22:05:06 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-05-01 21:50:45 +0000"
     },
     "done": true
   },
+  "veggiesdelight:main/fruit_veggie": {
+    "criteria": {
+      "fruit": "2025-05-01 22:04:08 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-05-01 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-01 22:07:03 +0000"
     },
     "done": true
   },
