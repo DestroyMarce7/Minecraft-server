@@ -1,4 +1,10 @@
 {
+  "immersive_weathering:immersive_weathering/moss": {
+    "criteria": {
+      "apple": "2025-05-01 21:50:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-05-01 21:38:21 +0000"
@@ -23,21 +29,33 @@
     },
     "done": true
   },
+  "veggiesdelight:main/first_veggie": {
+    "criteria": {
+      "first": "2025-05-01 21:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-01 21:42:29 +0000"
     },
     "done": true
   },
+  "veggiesdelight:main/eat": {
+    "criteria": {
+      "eat": "2025-05-01 21:55:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
@@ -49,21 +67,23 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-01 21:55:51 +0000",
       "minecraft:frozen_river": "2025-05-01 21:39:15 +0000",
       "minecraft:snowy_plains": "2025-05-01 21:38:21 +0000",
       "minecraft:snowy_taiga": "2025-05-01 21:39:18 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-01 21:52:59 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-01 21:45:59 +0000"
     },
     "done": false
@@ -76,13 +96,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
@@ -91,6 +111,12 @@
       "veggies": "2025-05-01 21:39:28 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2025-05-01 21:55:15 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -104,9 +130,15 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-01 21:50:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
@@ -118,13 +150,13 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
@@ -166,21 +198,27 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 21:46:04 +0000"
+      "log_spam_fixer": "2025-05-01 21:57:09 +0000"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-01 21:48:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

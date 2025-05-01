@@ -261,6 +261,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-01 21:54:01 +0000"
+    },
+    "done": true
+  },
   "veggiesdelight:main/eat": {
     "criteria": {
       "eat": "2025-05-01 21:43:43 +0000"
