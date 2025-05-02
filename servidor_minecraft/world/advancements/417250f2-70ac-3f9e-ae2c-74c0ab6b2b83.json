@@ -139,10 +139,14 @@
     "criteria": {
       "minecraft:pillager": "2025-05-01 22:19:16 +0000",
       "minecraft:skeleton": "2025-05-01 22:27:52 +0000",
+      "minecraft:hoglin": "2025-05-02 00:40:00 +0000",
       "minecraft:spider": "2025-05-01 21:37:26 +0000",
+      "minecraft:piglin_brute": "2025-05-02 00:42:19 +0000",
       "minecraft:creeper": "2025-05-01 22:41:58 +0000",
       "minecraft:evoker": "2025-05-01 22:31:31 +0000",
       "minecraft:husk": "2025-05-02 00:25:49 +0000",
+      "minecraft:piglin": "2025-05-02 00:42:15 +0000",
+      "minecraft:enderman": "2025-05-02 00:34:12 +0000",
       "minecraft:zombie": "2025-05-01 22:26:47 +0000"
     },
     "done": false
@@ -332,17 +336,96 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "requirement": "2025-05-02 00:33:17 +0000"
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
     },
     "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-02 00:42:18 +0000",
+      "log_spam_fixer": "2025-05-02 00:41:49 +0000"
+    },
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-02 00:26:45 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-02 00:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 00:35:46 +0000"
+    },
+    "done": false
   },
   "incendium:root": {
     "criteria": {

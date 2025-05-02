@@ -273,6 +273,12 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 00:35:43 +0000"
+    },
+    "done": false
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-05-02 00:30:27 +0000"

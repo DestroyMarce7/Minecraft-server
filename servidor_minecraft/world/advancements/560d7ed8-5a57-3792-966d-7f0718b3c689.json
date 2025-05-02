@@ -145,11 +145,14 @@
       "minecraft:pillager": "2025-05-01 19:24:05 +0000",
       "minecraft:skeleton": "2025-05-01 15:24:04 +0000",
       "minecraft:ravager": "2025-05-01 22:18:26 +0000",
+      "minecraft:hoglin": "2025-05-02 00:37:08 +0000",
       "minecraft:vindicator": "2025-05-01 21:57:09 +0000",
+      "minecraft:magma_cube": "2025-05-02 00:33:31 +0000",
       "minecraft:spider": "2025-05-01 15:15:25 +0000",
       "minecraft:creeper": "2025-05-01 15:15:07 +0000",
       "minecraft:phantom": "2025-05-02 00:11:14 +0000",
       "minecraft:zombie": "2025-05-01 15:14:35 +0000",
+      "quark:foxhound": "2025-05-02 00:33:42 +0000",
       "minecraft:zombie_villager": "2025-05-02 00:26:46 +0000"
     },
     "done": false
@@ -244,6 +247,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 00:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-05-01 22:56:35 +0000"
@@ -282,7 +291,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-02 00:31:01 +0000"
+      "minecraft:crimson_forest": "2025-05-02 00:31:01 +0000",
+      "minecraft:nether_wastes": "2025-05-02 00:33:23 +0000"
     },
     "done": false
   },
@@ -367,6 +377,12 @@
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
       "place_organic_compost": "2025-05-01 23:19:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:lumberjack": "2025-05-02 00:35:05 +0000"
     },
     "done": true
   },
