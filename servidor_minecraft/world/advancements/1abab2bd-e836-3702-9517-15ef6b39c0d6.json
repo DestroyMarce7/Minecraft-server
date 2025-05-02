@@ -205,9 +205,12 @@
       "minecraft:pillager": "2025-05-01 22:41:20 +0000",
       "minecraft:skeleton": "2025-05-01 22:22:47 +0000",
       "minecraft:ravager": "2025-05-01 22:20:05 +0000",
+      "minecraft:hoglin": "2025-05-02 00:46:38 +0000",
       "minecraft:vindicator": "2025-05-01 22:20:49 +0000",
       "minecraft:spider": "2025-05-01 22:25:46 +0000",
+      "minecraft:piglin_brute": "2025-05-02 00:42:27 +0000",
       "minecraft:husk": "2025-05-02 00:25:47 +0000",
+      "minecraft:piglin": "2025-05-02 00:42:17 +0000",
       "minecraft:enderman": "2025-05-01 22:38:33 +0000",
       "minecraft:zombie": "2025-05-01 22:22:33 +0000"
     },
@@ -273,6 +276,12 @@
     },
     "done": false
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-02 00:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-02 00:35:43 +0000"
@@ -312,6 +321,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-02 00:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-02 00:42:31 +0000"
     },
     "done": true
   },

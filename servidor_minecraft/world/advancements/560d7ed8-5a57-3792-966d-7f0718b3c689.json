@@ -247,6 +247,12 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-02 00:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-05-02 00:38:53 +0000"
@@ -256,6 +262,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-05-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-05-02 00:41:13 +0000"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:inverted_forest": "2025-05-02 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-05-02 00:46:52 +0000"
     },
     "done": true
   },
