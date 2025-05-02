@@ -196,6 +196,7 @@
       "minecraft:blaze": "2025-05-02 00:24:07 +0000",
       "minecraft:pillager": "2025-05-01 22:29:20 +0000",
       "minecraft:skeleton": "2025-05-01 16:14:09 +0000",
+      "minecraft:hoglin": "2025-05-02 01:03:50 +0000",
       "minecraft:magma_cube": "2025-05-01 23:18:04 +0000",
       "minecraft:spider": "2025-05-01 16:12:12 +0000",
       "minecraft:piglin_brute": "2025-05-01 23:09:10 +0000",
@@ -243,6 +244,7 @@
       "wither_skeleton_skull": "2025-05-02 00:40:01 +0000",
       "skeleton_skull": "2025-05-01 16:14:16 +0000",
       "witch_head": "2025-05-01 16:33:35 +0000",
+      "piglin_head": "2025-05-02 01:04:47 +0000",
       "cave_spider_head": "2025-05-01 16:33:30 +0000"
     },
     "done": false
@@ -276,6 +278,78 @@
       "requirement": "2025-05-01 19:20:57 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
@@ -410,6 +484,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-05-02 00:40:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_netherite_weapon": {
+    "criteria": {
+      "has_netherite_weapon": "2025-05-02 00:58:01 +0000"
     },
     "done": true
   },

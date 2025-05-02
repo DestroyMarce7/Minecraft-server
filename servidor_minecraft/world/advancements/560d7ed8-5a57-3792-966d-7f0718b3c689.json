@@ -129,6 +129,7 @@
       "cooked_porkchop": "2025-05-01 15:12:49 +0000",
       "cooked_mutton": "2025-05-01 15:16:12 +0000",
       "cooked_beef": "2025-05-01 16:19:50 +0000",
+      "bread": "2025-05-02 01:03:59 +0000",
       "rotten_flesh": "2025-05-01 15:37:12 +0000",
       "cooked_salmon": "2025-05-01 22:05:24 +0000"
     },
@@ -151,6 +152,7 @@
       "minecraft:spider": "2025-05-01 15:15:25 +0000",
       "minecraft:creeper": "2025-05-01 15:15:07 +0000",
       "minecraft:phantom": "2025-05-02 00:11:14 +0000",
+      "minecraft:enderman": "2025-05-02 00:56:36 +0000",
       "minecraft:zombie": "2025-05-01 15:14:35 +0000",
       "quark:foxhound": "2025-05-02 00:33:42 +0000",
       "minecraft:zombie_villager": "2025-05-02 00:26:46 +0000"
@@ -247,51 +249,9 @@
     },
     "done": false
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "requirement": "2025-05-02 00:46:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-05-02 00:38:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-05-01 22:56:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longsword": {
-    "criteria": {
-      "has_longsword": "2025-05-02 00:41:13 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-05-01 21:50:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_rich_soil": {
-    "criteria": {
-      "get_rich_soil": "2025-05-01 22:05:06 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-05-01 21:50:45 +0000"
-    },
-    "done": true
-  },
-  "veggiesdelight:main/fruit_veggie": {
-    "criteria": {
-      "fruit": "2025-05-01 22:04:08 +0000"
+      "requirement": "2025-05-01 21:46:24 +0000"
     },
     "done": true
   },
@@ -301,12 +261,83 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-02 00:31:01 +0000",
-      "minecraft:nether_wastes": "2025-05-02 00:33:23 +0000"
+      "inscription_table": "2025-05-01 21:50:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-01 21:50:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-01 21:50:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-05-01 21:53:08 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 21:56:53 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/fruit_veggie": {
+    "criteria": {
+      "fruit": "2025-05-01 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-05-01 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-01 22:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-01 22:58:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-05-01 23:19:58 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-05-02 00:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 00:22:07 +0000"
+    },
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -320,9 +351,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "hero_of_the_village": "2025-05-01 22:07:03 +0000"
+      "entered_nether": "2025-05-02 00:27:25 +0000"
     },
     "done": true
   },
@@ -338,69 +369,118 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 00:31:01 +0000",
+      "minecraft:nether_wastes": "2025-05-02 00:33:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:lumberjack": "2025-05-02 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 00:38:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-05-02 00:41:13 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
       "requirement": "2025-05-02 00:46:52 +0000"
     },
     "done": true
   },
-  "takesapillage:pillager_camp": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "in_pillager_camp": "2025-05-02 00:09:39 +0000"
+      "requirement": "2025-05-02 00:46:54 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "entered_nether": "2025-05-02 00:27:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "red_mushroom": "2025-05-01 21:53:08 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
     "done": false
   },
-  "farmersdelight:main/use_cutting_board": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "cutting_board": "2025-05-01 22:58:54 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
-    "done": true
+    "done": false
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "requirement": "2025-05-01 21:46:24 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:story/form_obsidian": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "obsidian": "2025-05-02 00:22:07 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
-    "done": true
+    "done": false
   },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "inscription_table": "2025-05-01 21:50:45 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "shot_arrow": "2025-05-01 21:56:53 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
-    "done": true
+    "done": false
   },
-  "farmersdelight:main/place_organic_compost": {
+  "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "place_organic_compost": "2025-05-01 23:19:58 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
     },
-    "done": true
+    "done": false
   },
-  "incendium:misc/loot_piglin_village": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "incendium:lumberjack": "2025-05-02 00:35:05 +0000"
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 01:14:43 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-05-02 01:10:28 +0000"
     },
     "done": true
   },
