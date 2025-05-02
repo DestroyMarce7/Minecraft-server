@@ -565,3 +565,21 @@
 [02May2025 01:15:14.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
 [02May2025 01:15:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
 [02May2025 01:15:14.495] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[02May2025 01:23:25.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/199886, l='ServerLevel[world]', x=-772.50, y=77.00, z=-2932.50]
+[02May2025 01:23:58.695] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/200333, l='ServerLevel[world]', x=-570.50, y=77.00, z=-2859.50]
+[02May2025 01:24:05.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/200379, l='ServerLevel[world]', x=-691.50, y=77.00, z=-2865.50]
+[02May2025 01:26:04.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [...And My Axe!]
+[02May2025 01:26:06.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Old School Defense]
+[02May2025 01:31:06.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.230.120.36:35265] logged in with entity id 207249 at (-555.6999999880791, 32.0, -315.69999998807907)
+[02May2025 01:31:06.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jorgepwe
+[02May2025 01:31:06.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jorgepwe
+[02May2025 01:31:06.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jorgepwe
+[02May2025 01:31:06.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jorgepwe
+[02May2025 01:31:06.737] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jorgepwe
+[02May2025 01:31:06.738] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jorgepwe
+[02May2025 01:31:06.738] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jorgepwe
+[02May2025 01:31:06.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[02May2025 01:31:06.758] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[02May2025 01:32:52.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/207289, l='ServerLevel[world]', x=-574.59, y=43.00, z=-301.18] died: Piglin Civilian was doomed to fall by Jorgepwe
+[02May2025 01:33:12.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/207287, l='ServerLevel[world]', x=-582.16, y=54.00, z=-279.68] died: Piglin Civilian was slain by Jorgepwe
+[02May2025 01:36:28.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind

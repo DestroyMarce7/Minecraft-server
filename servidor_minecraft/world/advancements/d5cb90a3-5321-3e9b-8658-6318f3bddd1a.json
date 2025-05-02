@@ -279,123 +279,16 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
+      "dirt": "2025-05-01 21:37:15 +0000",
+      "silt": "2025-05-01 21:39:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 01:07:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-05-01 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-05-01 22:16:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-05-01 21:54:01 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
-    "criteria": {
-      "requirement": "2025-05-01 22:31:39 +0000"
-    },
-    "done": true
-  },
-  "veggiesdelight:main/eat": {
-    "criteria": {
-      "eat": "2025-05-01 21:43:43 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-05-01 23:35:46 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2025-05-02 00:37:00 +0000"
+      "onion": "2025-05-01 21:42:30 +0000"
     },
     "done": true
   },
@@ -405,67 +298,21 @@
     },
     "done": true
   },
-  "endrem:main/cursed_eye": {
+  "veggiesdelight:main/eat": {
     "criteria": {
-      "cursed_eye": "2025-05-01 23:20:22 +0000"
+      "eat": "2025-05-01 21:43:43 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "bastion": "2025-05-01 23:07:23 +0000"
+      "kill_mimic": "2025-05-01 21:54:01 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-01 23:34:45 +0000",
-      "minecraft:nether_wastes": "2025-05-01 23:06:56 +0000",
-      "minecraft:soul_sand_valley": "2025-05-02 00:35:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-05-01 23:04:44 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/dirts": {
-    "criteria": {
-      "dirt": "2025-05-01 21:37:15 +0000",
-      "silt": "2025-05-01 21:39:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-01 23:04:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000",
-      "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-05-01 23:41:08 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2025-05-02 00:24:07 +0000"
+      "diamond_chestplate": "2025-05-01 22:16:57 +0000"
     },
     "done": true
   },
@@ -475,57 +322,9 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-05-02 00:49:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-02 00:40:01 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:upgrade_netherite_weapon": {
-    "criteria": {
-      "has_netherite_weapon": "2025-05-02 00:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-05-01 23:04:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-05-02 00:36:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-05-01 21:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-05-01 23:09:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-01 22:31:02 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/cold_eye": {
-    "criteria": {
-      "cold_eye": "2025-05-01 22:47:59 +0000"
     },
     "done": true
   },
@@ -538,6 +337,135 @@
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-05-01 22:31:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-05-01 22:31:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-05-01 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-01 23:02:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-01 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-01 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-01 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000",
+      "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-01 23:34:45 +0000",
+      "minecraft:nether_wastes": "2025-05-01 23:06:56 +0000",
+      "minecraft:soul_sand_valley": "2025-05-02 00:35:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 23:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-01 23:09:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-05-01 23:20:22 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-01 23:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-01 23:41:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-05-02 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-02 00:36:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-02 00:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-02 00:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-02 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_netherite_weapon": {
+    "criteria": {
+      "has_netherite_weapon": "2025-05-02 00:58:01 +0000"
     },
     "done": true
   },
