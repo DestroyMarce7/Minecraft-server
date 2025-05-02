@@ -61,6 +61,7 @@
       "minecraft:sunflower_plains": "2025-05-01 22:17:00 +0000",
       "minecraft:birch_forest": "2025-05-01 22:01:47 +0000",
       "minecraft:wooded_badlands": "2025-05-01 23:16:24 +0000",
+      "minecraft:bamboo_jungle": "2025-05-02 00:26:13 +0000",
       "minecraft:beach": "2025-05-01 22:01:27 +0000",
       "minecraft:stony_peaks": "2025-05-01 22:56:37 +0000",
       "minecraft:sparse_jungle": "2025-05-01 22:56:02 +0000",
@@ -161,6 +162,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-05-01 22:16:16 +0000",
+      "apple": "2025-05-02 00:14:56 +0000",
       "potato": "2025-05-01 21:55:15 +0000",
       "bread": "2025-05-01 22:05:57 +0000",
       "golden_apple": "2025-05-01 23:41:15 +0000",
@@ -205,6 +207,7 @@
       "minecraft:ravager": "2025-05-01 22:20:05 +0000",
       "minecraft:vindicator": "2025-05-01 22:20:49 +0000",
       "minecraft:spider": "2025-05-01 22:25:46 +0000",
+      "minecraft:husk": "2025-05-02 00:25:47 +0000",
       "minecraft:enderman": "2025-05-01 22:38:33 +0000",
       "minecraft:zombie": "2025-05-01 22:22:33 +0000"
     },
@@ -269,6 +272,42 @@
       "has_sherd": "2025-05-01 23:23:16 +0000"
     },
     "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-02 00:30:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-05-02 00:27:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-02 00:30:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-05-02 00:30:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-05-02 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-02 00:30:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

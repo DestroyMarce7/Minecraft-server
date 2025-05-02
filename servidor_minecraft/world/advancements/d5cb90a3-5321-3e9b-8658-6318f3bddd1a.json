@@ -157,9 +157,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-02 00:10:26 +0000",
       "baked_potato": "2025-05-01 16:01:57 +0000",
       "apple": "2025-05-01 16:01:49 +0000",
-      "bread": "2025-05-01 21:37:45 +0000"
+      "mutton": "2025-05-02 00:02:35 +0000",
+      "bread": "2025-05-01 21:37:45 +0000",
+      "golden_apple": "2025-05-01 23:53:30 +0000",
+      "golden_carrot": "2025-05-02 00:13:18 +0000"
     },
     "done": false
   },
@@ -189,6 +193,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-02 00:24:07 +0000",
       "minecraft:pillager": "2025-05-01 22:29:20 +0000",
       "minecraft:skeleton": "2025-05-01 16:14:09 +0000",
       "minecraft:magma_cube": "2025-05-01 23:18:04 +0000",
@@ -372,6 +377,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-05-02 00:24:07 +0000"
     },
     "done": true
   },
