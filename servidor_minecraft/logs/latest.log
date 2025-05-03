@@ -900,3 +900,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 15:05:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
 [03May2025 15:05:16.110] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
 [03May2025 15:05:22.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6946ms or 138 ticks behind
+[03May2025 15:23:20.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DestroyMarce7[/127.110.79.149:58585] logged in with entity id 5997 at (-3103.830398850239, 83.73916832327659, -5341.408496948836)
+[03May2025 15:23:20.369] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DestroyMarce7
+[03May2025 15:23:20.369] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DestroyMarce7
+[03May2025 15:23:20.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DestroyMarce7
+[03May2025 15:23:20.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DestroyMarce7
+[03May2025 15:23:20.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DestroyMarce7
+[03May2025 15:23:20.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DestroyMarce7
+[03May2025 15:23:20.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DestroyMarce7
+[03May2025 15:23:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 joined the game
+[03May2025 15:23:20.419] [Server thread/INFO] [Jade/]: Syncing config to DestroyMarce7 (417250f2-70ac-3f9e-ae2c-74c0ab6b2b83)
+[03May2025 15:23:30.855] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03May2025 15:23:38.610] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
