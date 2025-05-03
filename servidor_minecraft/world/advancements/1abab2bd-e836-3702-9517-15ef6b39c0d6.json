@@ -161,12 +161,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-02 03:32:11 +0000",
       "baked_potato": "2025-05-01 22:16:16 +0000",
+      "porkchop": "2025-05-02 03:49:02 +0000",
       "apple": "2025-05-02 00:14:56 +0000",
       "potato": "2025-05-01 21:55:15 +0000",
       "bread": "2025-05-01 22:05:57 +0000",
       "golden_apple": "2025-05-01 23:41:15 +0000",
-      "dried_kelp": "2025-05-01 21:57:45 +0000"
+      "dried_kelp": "2025-05-01 21:57:45 +0000",
+      "enchanted_golden_apple": "2025-05-02 02:21:28 +0000"
     },
     "done": false
   },
@@ -203,12 +206,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-01 22:41:20 +0000",
+      "minecraft:blaze": "2025-05-02 03:49:29 +0000",
       "minecraft:skeleton": "2025-05-01 22:22:47 +0000",
       "minecraft:ravager": "2025-05-01 22:20:05 +0000",
       "minecraft:hoglin": "2025-05-02 00:46:38 +0000",
       "minecraft:vindicator": "2025-05-01 22:20:49 +0000",
       "minecraft:spider": "2025-05-01 22:25:46 +0000",
       "minecraft:piglin_brute": "2025-05-02 00:42:27 +0000",
+      "minecraft:wither_skeleton": "2025-05-02 01:53:14 +0000",
       "minecraft:husk": "2025-05-02 00:25:47 +0000",
       "minecraft:piglin": "2025-05-02 00:42:17 +0000",
       "minecraft:enderman": "2025-05-01 22:38:33 +0000",
@@ -276,21 +281,9 @@
     },
     "done": false
   },
-  "minecraft:nether/distract_piglin": {
+  "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "distract_piglin": "2025-05-02 00:56:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-02 00:41:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-05-02 00:35:43 +0000"
+      "dirt": "2025-05-02 00:27:23 +0000"
     },
     "done": false
   },
@@ -300,13 +293,13 @@
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/dirts": {
-    "criteria": {
-      "dirt": "2025-05-02 00:27:23 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-02 00:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-02 00:30:27 +0000"
     },
@@ -324,9 +317,27 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "entered_nether": "2025-05-02 00:30:27 +0000"
+      "minecraft:crimson_forest": "2025-05-02 00:35:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-02 00:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-02 00:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-05-02 00:56:08 +0000"
     },
     "done": true
   },
@@ -336,9 +347,130 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "loot_bastion_other": "2025-05-02 00:42:31 +0000"
+      "blacksmith": "2025-05-02 01:45:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-02 04:04:58 +0000",
+      "log_spam_fixer": "2025-05-02 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 04:03:18 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-02 03:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-02 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-05-02 03:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-02 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-05-02 02:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-05-02 03:49:38 +0000"
     },
     "done": true
   },

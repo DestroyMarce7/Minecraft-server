@@ -65,6 +65,7 @@
       "minecraft:stony_peaks": "2025-05-01 22:56:31 +0000",
       "minecraft:sparse_jungle": "2025-05-01 22:56:03 +0000",
       "minecraft:river": "2025-05-01 22:16:55 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 02:37:34 +0000",
       "minecraft:snowy_plains": "2025-05-01 15:01:05 +0000",
       "minecraft:dripstone_caves": "2025-05-01 21:37:22 +0000",
       "minecraft:snowy_taiga": "2025-05-01 21:45:57 +0000",
@@ -113,7 +114,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-05-01 21:33:10 +0000"
+      "dirt": "2025-05-01 21:33:10 +0000",
+      "soul_soil": "2025-05-02 04:25:47 +0000"
     },
     "done": false
   },
@@ -138,16 +140,23 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-01 22:19:16 +0000",
+      "minecraft:blaze": "2025-05-02 02:25:55 +0000",
       "minecraft:skeleton": "2025-05-01 22:27:52 +0000",
       "minecraft:hoglin": "2025-05-02 00:40:00 +0000",
+      "minecraft:magma_cube": "2025-05-02 02:27:50 +0000",
       "minecraft:spider": "2025-05-01 21:37:26 +0000",
       "minecraft:piglin_brute": "2025-05-02 00:42:19 +0000",
       "minecraft:creeper": "2025-05-01 22:41:58 +0000",
       "minecraft:evoker": "2025-05-01 22:31:31 +0000",
+      "minecraft:phantom": "2025-05-02 06:28:42 +0000",
+      "minecraft:zombified_piglin": "2025-05-02 04:17:50 +0000",
+      "minecraft:wither_skeleton": "2025-05-02 02:24:53 +0000",
       "minecraft:husk": "2025-05-02 00:25:49 +0000",
+      "minecraft:cave_spider": "2025-05-02 02:46:05 +0000",
       "minecraft:piglin": "2025-05-02 00:42:15 +0000",
       "minecraft:enderman": "2025-05-02 00:34:12 +0000",
-      "minecraft:zombie": "2025-05-01 22:26:47 +0000"
+      "minecraft:zombie": "2025-05-01 22:26:47 +0000",
+      "quark:foxhound": "2025-05-02 04:34:26 +0000"
     },
     "done": false
   },
@@ -195,12 +204,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-02 03:01:20 +0000",
+      "cooked_beef": "2025-05-02 04:07:05 +0000",
       "baked_potato": "2025-05-01 22:08:22 +0000",
+      "porkchop": "2025-05-02 05:11:15 +0000",
       "apple": "2025-05-01 22:02:12 +0000",
       "potato": "2025-05-01 21:57:47 +0000",
       "cooked_cod": "2025-05-01 22:00:17 +0000",
       "bread": "2025-05-01 22:37:57 +0000",
-      "golden_apple": "2025-05-02 00:12:16 +0000"
+      "golden_apple": "2025-05-02 00:12:16 +0000",
+      "rotten_flesh": "2025-05-02 04:17:54 +0000",
+      "golden_carrot": "2025-05-02 03:31:35 +0000"
     },
     "done": false
   },
@@ -362,6 +376,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-05-02 07:28:35 +0000",
       "incendium:inverted_forest": "2025-05-02 00:31:13 +0000"
     },
     "done": false
@@ -374,7 +389,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-02 00:35:46 +0000"
+      "minecraft:crimson_forest": "2025-05-02 00:35:46 +0000",
+      "minecraft:nether_wastes": "2025-05-02 04:33:32 +0000"
     },
     "done": false
   },
@@ -390,81 +406,129 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 00:56:44 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-05-02 00:55:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-02 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 01:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-02 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-02 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-02 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-02 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-05-02 02:38:25 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-02 02:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-05-02 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-05-02 02:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-02 04:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-05-02 04:01:42 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-05-02 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-02 07:28:35 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-05-03 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-05-03 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-03 02:24:51 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-03 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "dustydecorations:welcome_to_dusty_decor": {
+    "criteria": {
+      "welcome_to_dusty_decor_0": "2025-05-03 02:24:44 +0000"
     },
     "done": true
   },
