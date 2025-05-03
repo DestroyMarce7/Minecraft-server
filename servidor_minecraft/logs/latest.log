@@ -995,3 +995,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 16:35:16.005] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
 [03May2025 16:35:16.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
 [03May2025 16:35:16.025] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 16:35:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tienes o no tienes
