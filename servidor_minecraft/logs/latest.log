@@ -913,3 +913,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 14:15:17.055] [Server thread/INFO] [Jade/]: Syncing config to DestroyMarce7 (417250f2-70ac-3f9e-ae2c-74c0ab6b2b83)
 [03May2025 14:42:29.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe ta q
 [03May2025 14:42:54.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> hay un warden de mrda q me anda tirando como 34 rayos de el lugar más remoto el planeta
+[03May2025 14:43:07.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> XDDDDD
+[03May2025 14:43:10.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> JAJAJAJ}
+[03May2025 14:43:28.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> mano ando minando chill y de pronto me como un rayo de warden
+[03May2025 14:43:30.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XDD
+[03May2025 14:43:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> XED
+[03May2025 14:45:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> toca protip pa q desaparezca el muy perro
+[03May2025 14:45:33.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03May2025 14:45:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 14:45:33.734] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 14:45:39.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:60969] logged in with entity id 10098 at (35.53135158955436, 78.0, -8332.962535859784)
+[03May2025 14:45:39.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 14:45:39.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 14:45:39.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 14:45:39.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 14:45:39.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 14:45:39.452] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 14:45:39.452] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 14:45:39.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 14:45:39.476] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 14:45:50.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> gg ez no warden
