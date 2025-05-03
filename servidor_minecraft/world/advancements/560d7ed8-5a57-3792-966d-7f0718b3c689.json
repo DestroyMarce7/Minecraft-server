@@ -723,6 +723,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-03 16:13:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:javelin": {
     "criteria": {
       "has_javelin": "2025-05-03 15:46:42 +0000"
@@ -732,6 +738,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-03 16:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-03 16:05:28 +0000"
     },
     "done": true
   },
@@ -750,6 +762,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-05-03 15:32:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-05-03 16:07:57 +0000"
     },
     "done": true
   },
