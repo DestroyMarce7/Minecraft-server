@@ -215,6 +215,7 @@
       "bread": "2025-05-01 22:37:57 +0000",
       "golden_apple": "2025-05-02 00:12:16 +0000",
       "rotten_flesh": "2025-05-02 04:17:54 +0000",
+      "glow_berries": "2025-05-03 08:00:24 +0000",
       "golden_carrot": "2025-05-02 03:31:35 +0000",
       "enchanted_golden_apple": "2025-05-03 04:16:18 +0000"
     },
@@ -599,6 +600,12 @@
       "has_halberd": "2025-05-03 06:22:18 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-05-03 08:00:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
