@@ -11189,3 +11189,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 15:34:05.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12851, l='ServerLevel[world]', x=-304.50, y=75.00, z=-9558.50]
 [03May2025 15:34:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> bro me acabo de dar cuenta q la máscara estaba en mi inventario y yo ni enterado
 [03May2025 15:34:18.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XDDD
+[03May2025 15:34:22.761] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12898, l='ServerLevel[world]', x=-255.50, y=78.00, z=-9511.50]
+[03May2025 15:34:42.909] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12982, l='ServerLevel[world]', x=-305.50, y=76.00, z=-9548.50]
+[03May2025 15:34:44.510] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12989, l='ServerLevel[world]', x=-290.50, y=75.00, z=-9550.50]
+[03May2025 15:34:45.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 15:34:45.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 15:35:11.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13233, l='ServerLevel[world]', x=-443.26, y=-34.60, z=-9438.62], dimensionLocationPath overworld
+[03May2025 15:35:11.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13233, l='ServerLevel[world]', x=-443.26, y=-34.60, z=-9438.62] in list []
+[03May2025 15:35:15.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13283, l='ServerLevel[world]', x=-235.50, y=77.00, z=-9502.50]
+[03May2025 15:35:21.174] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[03May2025 15:35:28.726] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/obelisk1
+[03May2025 15:35:28.741] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[03May2025 15:35:40.189] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/mushroom_well
+[03May2025 15:39:45.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 15:39:45.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 15:39:56.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[03May2025 15:39:58.525] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[03May2025 15:39:58.535] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[03May2025 15:39:58.545] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[03May2025 15:40:02.733] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[03May2025 15:40:02.750] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[03May2025 15:40:02.753] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[03May2025 15:40:02.763] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[03May2025 15:40:02.773] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[03May2025 15:40:02.784] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[03May2025 15:40:02.785] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[03May2025 15:40:02.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[03May2025 15:40:02.794] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[03May2025 15:40:02.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[03May2025 15:40:02.806] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[03May2025 15:40:02.809] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[03May2025 15:40:02.810] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[03May2025 15:40:02.816] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_mage is being run through DFU (hash 47aa8bbef5ab6f6e3817780d5d9d0a71fd2df2a1df24deacfee0b4d99e2bb767), this will cause launch time delays
+[03May2025 15:40:03.022] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[03May2025 15:40:03.023] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[03May2025 15:40:03.023] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[03May2025 15:40:03.024] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[03May2025 15:40:03.024] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[03May2025 15:40:03.026] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[03May2025 15:40:03.027] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[03May2025 15:40:03.028] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[03May2025 15:40:03.029] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[03May2025 15:40:03.029] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[03May2025 15:40:03.030] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[03May2025 15:40:06.483] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[03May2025 15:40:06.538] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[03May2025 15:40:06.547] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
+[03May2025 15:40:13.350] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/13233, l='ServerLevel[world]', x=-442.34, y=-35.63, z=-9437.76, removed=UNLOADED_TO_CHUNK]
+[03May2025 15:40:24.182] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 15:40:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Where Is The Stone Pen?]
+[03May2025 15:41:29.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 15:41:52.328] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 15:42:24.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 15:42:44.904] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ecologics:desert_ruin/pillars2
+[03May2025 15:42:46.762] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ecologics:desert_ruin/pit
+[03May2025 15:42:46.808] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_1
+[03May2025 15:42:46.810] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_2
+[03May2025 15:42:47.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ecologics:desert_ruin/wall2
+[03May2025 15:42:52.005] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[03May2025 15:42:52.015] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/main
+[03May2025 15:42:52.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[03May2025 15:42:52.044] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[03May2025 15:42:52.064] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[03May2025 15:42:52.427] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[03May2025 15:42:54.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/tall_house
+[03May2025 15:42:56.464] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ecologics:desert_ruin/chest_house
+[03May2025 15:42:57.750] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[03May2025 15:43:07.096] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[03May2025 15:43:08.614] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ecologics:desert_ruin/pillars1
+[03May2025 15:43:27.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15095, l='ServerLevel[world]', x=-701.65, y=75.00, z=-9849.99] died, message: 'Unemployed was slain by Zombie'
