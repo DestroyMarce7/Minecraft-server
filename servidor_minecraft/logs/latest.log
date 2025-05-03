@@ -967,3 +967,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 16:06:21.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> creo q con full prote 2 si la hago
 [03May2025 16:07:57.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Cursed Pyramid]
 [03May2025 16:13:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Fortune Seeker]
+[03May2025 16:18:02.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 0.7153701332608762,-1.2491870787446828,-10.034473565081498
