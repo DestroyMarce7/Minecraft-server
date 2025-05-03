@@ -968,3 +968,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 16:07:57.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Cursed Pyramid]
 [03May2025 16:13:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Fortune Seeker]
 [03May2025 16:18:02.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 0.7153701332608762,-1.2491870787446828,-10.034473565081498
+[03May2025 16:30:50.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03May2025 16:30:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 16:30:59.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:40949] logged in with entity id 33055 at (-1095.3731398849102, 70.0, -11196.425007765682)
+[03May2025 16:30:59.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 16:30:59.088] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 16:30:59.088] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 16:30:59.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 16:30:59.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 16:30:59.093] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 16:30:59.094] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 16:30:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 16:30:59.118] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 16:34:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe no tienes esa wbd con la q se despierta al dinosaurio este
+[03May2025 16:34:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ??
+[03May2025 16:34:18.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[03May2025 16:34:18.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Flying is not enabled on this server
+[03May2025 16:34:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 16:35:15.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:52845] logged in with entity id 34317 at (-1092.5263614490561, 32.7531999805212, -11196.643114838427)
+[03May2025 16:35:15.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 16:35:15.998] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 16:35:15.998] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 16:35:15.998] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 16:35:16.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 16:35:16.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 16:35:16.005] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 16:35:16.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 16:35:16.025] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
