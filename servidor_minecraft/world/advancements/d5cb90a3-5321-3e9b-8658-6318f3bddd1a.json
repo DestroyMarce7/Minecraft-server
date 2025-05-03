@@ -64,6 +64,7 @@
       "minecraft:badlands": "2025-05-02 07:01:27 +0000",
       "minecraft:beach": "2025-05-01 16:09:49 +0000",
       "minecraft:dark_forest": "2025-05-01 16:10:05 +0000",
+      "minecraft:stony_peaks": "2025-05-03 06:14:03 +0000",
       "minecraft:sparse_jungle": "2025-05-02 07:03:22 +0000",
       "minecraft:river": "2025-05-01 16:16:05 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 06:34:55 +0000",
@@ -78,6 +79,7 @@
       "minecraft:ocean": "2025-05-01 16:09:23 +0000",
       "minecraft:jungle": "2025-05-02 07:04:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-02 04:39:06 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-03 06:06:40 +0000",
       "minecraft:flower_forest": "2025-05-01 16:14:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 16:24:22 +0000",
       "minecraft:meadow": "2025-05-02 02:35:56 +0000",
@@ -219,6 +221,7 @@
       "minecraft:wither_skeleton": "2025-05-02 00:37:25 +0000",
       "minecraft:husk": "2025-05-02 06:52:50 +0000",
       "minecraft:cave_spider": "2025-05-01 16:31:24 +0000",
+      "quark:wraith": "2025-05-03 05:39:27 +0000",
       "minecraft:piglin": "2025-05-01 23:09:23 +0000",
       "minecraft:enderman": "2025-05-01 23:06:31 +0000",
       "minecraft:zombie": "2025-05-01 16:14:10 +0000",
@@ -395,6 +398,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-05-03 05:42:35 +0000",
       "incendium:infernal_dunes": "2025-05-01 23:49:51 +0000",
       "incendium:inverted_forest": "2025-05-01 23:04:51 +0000"
     },
@@ -410,7 +414,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-01 23:34:45 +0000",
       "minecraft:nether_wastes": "2025-05-01 23:06:56 +0000",
-      "minecraft:soul_sand_valley": "2025-05-02 00:35:05 +0000"
+      "minecraft:soul_sand_valley": "2025-05-02 00:35:05 +0000",
+      "minecraft:basalt_deltas": "2025-05-03 05:41:01 +0000"
     },
     "done": false
   },
@@ -630,111 +635,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-03 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/stolen_magic": {
-    "criteria": {
-      "coded_trigger": "2025-05-03 05:14:13 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-03 05:04:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-05-03 05:27:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/magic_siphoner": {
-    "criteria": {
-      "coded_trigger": "2025-05-03 05:18:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-05-03 05:07:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-03 05:04:13 +0000"
     },
     "done": true
   },
@@ -744,9 +647,208 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-03 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:14:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:18:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-05-03 05:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-03 05:30:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-03 05:40:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 05:42:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:42:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-05-03 05:42:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-05-03 05:51:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-05-03 05:52:07 +0000",
+      "junk": "2025-05-03 05:51:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-03 05:51:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-03 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 05:53:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 06:37:33 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-05-03 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-03 06:18:50 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-05-03 06:20:59 +0000"
     },
     "done": true
   },
