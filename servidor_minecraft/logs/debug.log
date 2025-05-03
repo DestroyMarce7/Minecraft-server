@@ -14586,3 +14586,614 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 17:04:37.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [03May2025 17:04:45.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 17:04:45.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:09:45.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:09:45.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:12:40.801] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:sandstone} -991 -11163 -11163 VisualFallingBlockEntity['Falling Sandstone'/43644, l='ServerLevel[world]', x=-990.50, y=81.00, z=-11162.50]
+[03May2025 17:12:57.185] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[03May2025 17:12:57.207] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[03May2025 17:12:57.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[03May2025 17:12:57.240] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[03May2025 17:12:57.255] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[03May2025 17:12:57.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[03May2025 17:12:57.304] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[03May2025 17:12:57.332] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[03May2025 17:12:57.350] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[03May2025 17:12:57.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[03May2025 17:12:57.389] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[03May2025 17:12:57.400] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[03May2025 17:12:57.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[03May2025 17:12:57.478] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[03May2025 17:12:57.484] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[03May2025 17:12:57.500] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[03May2025 17:12:57.511] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[03May2025 17:12:57.524] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[03May2025 17:12:57.529] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[03May2025 17:12:57.536] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/side/workshop
+[03May2025 17:12:57.538] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/side/tent_sparse_jungle
+[03May2025 17:12:57.540] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/side/kitchen
+[03May2025 17:13:08.092] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03May2025 17:13:19.760] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/orange_stall
+[03May2025 17:13:29.021] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/campsite
+[03May2025 17:13:38.274] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/fountain1
+[03May2025 17:13:45.227] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:13:57.953] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool_small1
+[03May2025 17:13:57.960] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/long2 is being run through DFU (hash 8ebc8d15b204a17570a6aa390556ba35524fc2371108838fdf069ef31664b61c), this will cause launch time delays
+[03May2025 17:13:58.005] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[03May2025 17:13:58.015] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin4
+[03May2025 17:13:58.029] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[03May2025 17:13:58.034] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/bend2 is being run through DFU (hash 3b68481e70437e4c96826b857b948888b024aa53df43c95d7550ff693987e9ea), this will cause launch time delays
+[03May2025 17:13:58.042] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/short3 is being run through DFU (hash 981926055aa8609fbe538a812df05f7f3bc31fddaaa6cb8e8d7185826d888820), this will cause launch time delays
+[03May2025 17:13:58.044] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/long1 is being run through DFU (hash 103fe9e31aeffc5276fe059a84f74bbf69f1f094801007df0ad3a53e9482d533), this will cause launch time delays
+[03May2025 17:13:58.047] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/bend1 is being run through DFU (hash b070ed21babdf8495e43621fc0841a66b5ad93f3dec17121a43867e8f4dd857b), this will cause launch time delays
+[03May2025 17:13:58.049] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/short2 is being run through DFU (hash 93bffc19d2f7467e05af86de06cc4ebe89ab32f7a19bf5ea8d8c6f4a069ac23d), this will cause launch time delays
+[03May2025 17:13:58.051] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/bend3 is being run through DFU (hash 0ae61e9741e555bd7c8f9e1f7ecb583b5bb9bc5060ce79419f926532933ea394), this will cause launch time delays
+[03May2025 17:13:58.054] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/short1 is being run through DFU (hash 0b000b24d46bb81580c55b5c1a81c76ea855bf48f68ca66d8d5cdf2ebf09656b), this will cause launch time delays
+[03May2025 17:13:58.081] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[03May2025 17:13:58.093] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table2
+[03May2025 17:13:58.096] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[03May2025 17:13:58.128] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/t1
+[03May2025 17:13:58.142] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[03May2025 17:13:58.148] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table1
+[03May2025 17:13:58.156] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[03May2025 17:13:58.170] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool1
+[03May2025 17:14:22.673] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pyramid1
+[03May2025 17:14:45.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:14:45.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:15:10.935] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_01 is being run through DFU (hash d9fca7e9254e6485570bacd205ebfe9f74224795a9f671ad9bf329a3d3001d2c), this will cause launch time delays
+[03May2025 17:15:10.945] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/sparse_jungle_tiki_torch_1 is being run through DFU (hash 1780b483f6374055e911f9fded9ad3261051bd0be3a389373de7be596242ae2c), this will cause launch time delays
+[03May2025 17:15:11.076] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_04 is being run through DFU (hash 936810bf15b0546a5f6a241befd1c9aaa24cb94cf75efabdcd82e3a4938013b4), this will cause launch time delays
+[03May2025 17:15:11.085] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_toolsmith_and_weaponsmith_1 is being run through DFU (hash 4cbddd7addc4f96d1cfb9095afbc727d80c0554d871e1924b1a53a20c92ece6d), this will cause launch time delays
+[03May2025 17:15:11.162] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_butcher_and_shepherd_1 is being run through DFU (hash cea44a5fa821878e42d5f5900dc8c41081bfb44cea221e3ecb215e89e3fcc5db), this will cause launch time delays
+[03May2025 17:15:11.172] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1 is being run through DFU (hash 91cb427e973f4c54aa6c35d85ef3a1d6913284b0bc93e59600595809d971b57c), this will cause launch time delays
+[03May2025 17:15:11.177] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_leatherworker_1 is being run through DFU (hash 540994973e4067cb27349951181741de85a317ecf2efdcd78843e6bb9e38337f), this will cause launch time delays
+[03May2025 17:15:11.180] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_farm_1 is being run through DFU (hash ee25ebaff417fb2ba98f066515e38f8682e0c3ba172763d10fd6cc0cad521f4e), this will cause launch time delays
+[03May2025 17:15:11.184] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_farm_1 is being run through DFU (hash 054e07e80507494fcc49acdc079d0dac23876340a3c74c8b3fa04aea05c83853), this will cause launch time delays
+[03May2025 17:15:11.188] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_fisher_and_fletcher_1 is being run through DFU (hash ef7f2214384eaecc3a53d1f1783cfdf6f8473b1049abc7b7e509018bd6e5ddd9), this will cause launch time delays
+[03May2025 17:15:11.193] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_cartographer_and_library_1 is being run through DFU (hash 1b45937b71377968b1870c51081fc6b7abd4ec816eb7934b3513ad875c25505a), this will cause launch time delays
+[03May2025 17:15:11.203] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_1 is being run through DFU (hash 321dfa2656bfb326c7f5b0a2cf2f42d803478266dd1ca1f69ae027995930ef4b), this will cause launch time delays
+[03May2025 17:15:11.206] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_2 is being run through DFU (hash 4cbe94afa44200500e02906d3d4f0777767e291b75cd7d3fcd8f7e07d5d20b07), this will cause launch time delays
+[03May2025 17:15:11.212] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_3 is being run through DFU (hash aca3328734ea9faf4bf3619d5ade73a4e9a2ce5a3864af82962f56ed53085cdb), this will cause launch time delays
+[03May2025 17:15:11.217] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_4 is being run through DFU (hash 557a4ebe58fd17ddcb91c36a2e817714da46426e5ae6427387d877cfb5a932be), this will cause launch time delays
+[03May2025 17:15:11.222] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_1 is being run through DFU (hash 44b13907f7f3ef370184a56e53e39b5b2cb842fef48a70656f40f6f555140e01), this will cause launch time delays
+[03May2025 17:15:11.232] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_2 is being run through DFU (hash 917feb647b15615c1285ee8490745a50adead6daf0b8158787d540191dd0b6df), this will cause launch time delays
+[03May2025 17:15:11.243] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_3 is being run through DFU (hash e941f261991ed9f5befc69e711a7f6d7fa5fb56fec39ba889bd836fad26d1d52), this will cause launch time delays
+[03May2025 17:15:11.249] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_house_1 is being run through DFU (hash 379385449ee01dfad57f6b3abc8c1bcb327549ad11859844f7d59ffd8262d905), this will cause launch time delays
+[03May2025 17:15:11.269] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_02 is being run through DFU (hash 8ff34e871ca18d1956d8792cf0c01e7ef5bc3f5588224e5b2a9a004c02474fba), this will cause launch time delays
+[03May2025 17:15:11.281] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_02 is being run through DFU (hash 55e707490d354effc9f1cddd914cdb3441502e038063ce8a48a6fc5614f7ba06), this will cause launch time delays
+[03May2025 17:15:11.320] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_03 is being run through DFU (hash 95256ec8c05433e7037f7afdc4cbfa9a5ab4bfdd3dce389c0811d28a1d496bfb), this will cause launch time delays
+[03May2025 17:15:11.325] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_03 is being run through DFU (hash 5ff097713932128378d192aeca55c9ff745fc78111ad6f8ad797781fcf452699), this will cause launch time delays
+[03May2025 17:15:11.335] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_02 is being run through DFU (hash 6876783b18ee8e14e962fe3e67b57c2ec75aef1c567aabf6f65e1692264c8401), this will cause launch time delays
+[03May2025 17:15:11.340] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_01 is being run through DFU (hash a87586f8aaa3538b0ac431337908482ea95df9e053e9f1953e499da67b30b16a), this will cause launch time delays
+[03May2025 17:15:11.350] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_01 is being run through DFU (hash 857e566ae3ac19d5e08cd1fd14920e2124f0516655ae378b650fdd219fc72544), this will cause launch time delays
+[03May2025 17:15:11.360] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/terminators/terminator_01 is being run through DFU (hash 2702831c0ef8628181b182c75449dcf84669cc4017285ac49520cf558c5f296c), this will cause launch time delays
+[03May2025 17:15:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Your First Receptacle]
+[03May2025 17:15:47.734] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[03May2025 17:15:47.739] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[03May2025 17:15:47.740] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03May2025 17:15:47.741] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[03May2025 17:15:47.742] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[03May2025 17:15:47.742] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03May2025 17:15:47.742] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[03May2025 17:15:47.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[03May2025 17:15:47.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[03May2025 17:15:47.744] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[03May2025 17:15:47.744] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[03May2025 17:15:47.745] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[03May2025 17:15:47.746] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[03May2025 17:15:47.746] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[03May2025 17:15:47.747] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[03May2025 17:15:47.747] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[03May2025 17:15:47.748] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[03May2025 17:15:47.749] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[03May2025 17:15:47.749] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[03May2025 17:15:47.749] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall_thin
+[03May2025 17:15:49.149] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 17:15:49.149] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 17:15:58.547] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03May2025 17:16:22.942] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pillar1
+[03May2025 17:16:22.951] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/star1
+[03May2025 17:16:23.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin5
+[03May2025 17:16:26.322] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/stone_pillars
+[03May2025 17:16:33.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:17:15.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/center_hut
+[03May2025 17:17:19.805] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:19.807] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1110, y=44, z=-12023}
+[03May2025 17:17:19.828] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:19.866] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:22.949] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:22.953] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:22.955] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1118, y=44, z=-12010}
+[03May2025 17:17:22.956] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1111, y=44, z=-12010}
+[03May2025 17:17:22.977] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:22.981] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:22.983] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1124, y=44, z=-12030}
+[03May2025 17:17:22.983] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1124, y=44, z=-12017}
+[03May2025 17:17:22.984] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1111, y=44, z=-12023}
+[03May2025 17:17:22.984] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1110, y=44, z=-12023}
+[03May2025 17:17:22.984] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1117, y=44, z=-12030}
+[03May2025 17:17:23.006] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:23.009] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:26.930] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:26.933] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:26.935] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1118, y=44, z=-12010}
+[03May2025 17:17:26.986] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:26.993] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1136, y=58, z=-12019}
+[03May2025 17:17:26.993] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:26.995] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1124, y=44, z=-12030}
+[03May2025 17:17:26.996] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1124, y=44, z=-12017}
+[03May2025 17:17:26.996] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1125, y=44, z=-12017}
+[03May2025 17:17:27.415] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:27.419] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:28.440] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:28.443] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:28.541] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:28.546] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:28.577] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=63, z=-12016}
+[03May2025 17:17:28.580] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1141, y=51, z=-12039}
+[03May2025 17:17:48.549] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=-5, z=-12270}
+[03May2025 17:17:51.648] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-986, y=-5, z=-12271}
+[03May2025 17:17:51.659] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-991, y=2, z=-12260}
+[03May2025 17:17:51.659] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=-5, z=-12270}
+[03May2025 17:17:51.660] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-986, y=-5, z=-12271}
+[03May2025 17:17:51.988] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:17:51.990] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-991, y=2, z=-12260}
+[03May2025 17:17:51.990] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-996, y=2, z=-12259}
+[03May2025 17:17:52.008] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:17:52.038] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:18:00.164] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=-25, z=-12292}
+[03May2025 17:18:00.165] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=2, z=-12292}
+[03May2025 17:18:00.166] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:18:00.168] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-991, y=2, z=-12260}
+[03May2025 17:18:00.169] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=2, z=-12280}
+[03May2025 17:18:00.187] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:18:00.214] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:18:00.409] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=2, z=-12292}
+[03May2025 17:18:00.410] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-991, y=2, z=-12260}
+[03May2025 17:18:00.411] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-988, y=2, z=-12295}
+[03May2025 17:18:04.390] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:18:05.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:18:36.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:18:37.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:18:38.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:19:24.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:19:25.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:19:45.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:19:45.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:20:24.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:20:27.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:20:28.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:20:29.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:20:30.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:20:33.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:24:45.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:24:45.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:29:45.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:29:45.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:30:05.159] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-947, y=-25, z=-12310}
+[03May2025 17:30:05.211] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-991, y=-25, z=-12316}
+[03May2025 17:30:05.211] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=-12, z=-12310}
+[03May2025 17:30:05.213] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12300}
+[03May2025 17:30:05.213] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12293}
+[03May2025 17:30:05.213] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1014, y=2, z=-12293}
+[03May2025 17:30:05.214] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=2, z=-12292}
+[03May2025 17:30:05.214] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-988, y=2, z=-12295}
+[03May2025 17:30:05.215] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-989, y=-32, z=-12323}
+[03May2025 17:30:05.232] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=-12, z=-12310}
+[03May2025 17:30:05.233] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12300}
+[03May2025 17:30:05.234] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12293}
+[03May2025 17:30:05.234] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=-5, z=-12300}
+[03May2025 17:30:05.236] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12298}
+[03May2025 17:30:05.236] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=-25, z=-12292}
+[03May2025 17:30:05.236] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1014, y=2, z=-12293}
+[03May2025 17:30:05.237] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=2, z=-12292}
+[03May2025 17:30:05.237] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:30:05.238] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=2, z=-12280}
+[03May2025 17:30:05.239] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-989, y=-32, z=-12323}
+[03May2025 17:30:05.253] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12293}
+[03May2025 17:30:05.253] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=-5, z=-12300}
+[03May2025 17:30:05.254] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12298}
+[03May2025 17:30:05.254] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1014, y=2, z=-12293}
+[03May2025 17:30:05.255] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:30:05.288] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1001, y=0, z=-12292}
+[03May2025 17:30:08.999] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-946, y=-25, z=-12315}
+[03May2025 17:30:08.999] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-957, y=-25, z=-12316}
+[03May2025 17:30:09.000] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-947, y=-25, z=-12310}
+[03May2025 17:30:09.017] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-25, z=-12323}
+[03May2025 17:30:09.018] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-946, y=-25, z=-12315}
+[03May2025 17:30:09.039] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-25, z=-12323}
+[03May2025 17:30:09.040] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-984, y=-12, z=-12323}
+[03May2025 17:30:09.041] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-991, y=-25, z=-12316}
+[03May2025 17:30:09.041] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=-12, z=-12310}
+[03May2025 17:30:09.042] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12300}
+[03May2025 17:30:09.042] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-989, y=-32, z=-12323}
+[03May2025 17:30:09.141] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-997, y=-12, z=-12310}
+[03May2025 17:30:09.142] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12300}
+[03May2025 17:30:09.142] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=-5, z=-12300}
+[03May2025 17:30:09.144] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1005, y=-25, z=-12333}
+[03May2025 17:30:09.145] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12298}
+[03May2025 17:30:09.145] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-989, y=-32, z=-12323}
+[03May2025 17:30:09.239] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-998, y=-5, z=-12300}
+[03May2025 17:30:09.246] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1005, y=-25, z=-12333}
+[03May2025 17:30:09.247] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1009, y=-25, z=-12298}
+[03May2025 17:30:09.248] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1010, y=-32, z=-12323}
+[03May2025 17:30:09.692] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:30:16.783] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:16.788] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-957, y=-25, z=-12316}
+[03May2025 17:30:16.802] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:16.807] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-25, z=-12323}
+[03May2025 17:30:16.825] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:16.891] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:16.896] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-25, z=-12323}
+[03May2025 17:30:16.896] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-984, y=-12, z=-12323}
+[03May2025 17:30:16.896] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-32, z=-12328}
+[03May2025 17:30:16.896] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-989, y=-32, z=-12323}
+[03May2025 17:30:16.954] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-993, y=-25, z=-12334}
+[03May2025 17:30:16.955] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1020, y=-25, z=-12334}
+[03May2025 17:30:16.955] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1005, y=-25, z=-12333}
+[03May2025 17:30:16.956] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-34, z=-12329}
+[03May2025 17:30:16.957] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-32, z=-12328}
+[03May2025 17:30:16.958] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-989, y=-32, z=-12323}
+[03May2025 17:30:17.693] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1020, y=-25, z=-12334}
+[03May2025 17:30:17.693] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1038, y=-25, z=-12336}
+[03May2025 17:30:17.694] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1005, y=-25, z=-12333}
+[03May2025 17:30:17.695] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1027, y=-32, z=-12324}
+[03May2025 17:30:17.695] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-34, z=-12329}
+[03May2025 17:30:17.696] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1010, y=-32, z=-12323}
+[03May2025 17:30:17.697] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-32, z=-12328}
+[03May2025 17:30:17.710] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1038, y=-25, z=-12336}
+[03May2025 17:30:17.710] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1028, y=-32, z=-12335}
+[03May2025 17:30:17.712] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1027, y=-32, z=-12324}
+[03May2025 17:30:17.734] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1028, y=-32, z=-12335}
+[03May2025 17:30:19.796] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-887, y=-25, z=-12358}
+[03May2025 17:30:19.806] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-904, y=-39, z=-12358}
+[03May2025 17:30:19.806] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-887, y=-25, z=-12358}
+[03May2025 17:30:19.846] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-919, y=-39, z=-12358}
+[03May2025 17:30:19.857] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:19.883] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:20.234] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-993, y=-25, z=-12334}
+[03May2025 17:30:20.235] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1020, y=-25, z=-12334}
+[03May2025 17:30:20.235] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-34, z=-12329}
+[03May2025 17:30:20.248] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:20.266] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=-25, z=-12352}
+[03May2025 17:30:20.360] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1020, y=-25, z=-12334}
+[03May2025 17:30:20.361] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1017, y=-25, z=-12343}
+[03May2025 17:30:20.361] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1038, y=-25, z=-12336}
+[03May2025 17:30:20.362] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1043, y=-25, z=-12341}
+[03May2025 17:30:20.362] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1018, y=-34, z=-12329}
+[03May2025 17:30:20.379] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1038, y=-25, z=-12336}
+[03May2025 17:30:20.379] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1043, y=-25, z=-12341}
+[03May2025 17:30:20.399] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1043, y=-25, z=-12341}
+[03May2025 17:30:22.272] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-868, y=-25, z=-12365}
+[03May2025 17:30:22.273] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-868, y=-25, z=-12360}
+[03May2025 17:30:22.273] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-878, y=-25, z=-12366}
+[03May2025 17:30:22.508] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-886, y=-25, z=-12367}
+[03May2025 17:30:22.509] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-868, y=-25, z=-12365}
+[03May2025 17:30:22.509] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-887, y=-25, z=-12358}
+[03May2025 17:30:22.510] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-899, y=-25, z=-12368}
+[03May2025 17:30:22.541] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-915, y=-25, z=-12359}
+[03May2025 17:30:22.542] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-886, y=-25, z=-12367}
+[03May2025 17:30:22.543] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-914, y=-25, z=-12368}
+[03May2025 17:30:22.543] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-904, y=-39, z=-12358}
+[03May2025 17:30:22.544] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-887, y=-25, z=-12358}
+[03May2025 17:30:22.544] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-899, y=-25, z=-12368}
+[03May2025 17:30:22.556] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=-25, z=-12359}
+[03May2025 17:30:22.557] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-928, y=-25, z=-12368}
+[03May2025 17:30:22.558] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-919, y=-39, z=-12358}
+[03May2025 17:30:22.558] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-915, y=-25, z=-12359}
+[03May2025 17:30:22.559] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-914, y=-25, z=-12368}
+[03May2025 17:30:22.590] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-25, z=-12361}
+[03May2025 17:30:22.590] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-931, y=-25, z=-12360}
+[03May2025 17:30:22.591] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-940, y=-39, z=-12366}
+[03May2025 17:30:22.591] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=-25, z=-12359}
+[03May2025 17:30:22.603] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-963, y=-25, z=-12359}
+[03May2025 17:30:22.604] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=-25, z=-12358}
+[03May2025 17:30:22.604] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-25, z=-12368}
+[03May2025 17:30:22.604] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=-25, z=-12361}
+[03May2025 17:30:22.615] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-25, z=-12353}
+[03May2025 17:30:22.616] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-963, y=-25, z=-12359}
+[03May2025 17:30:22.617] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=-25, z=-12358}
+[03May2025 17:30:22.617] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-25, z=-12368}
+[03May2025 17:30:22.682] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-964, y=-25, z=-12353}
+[03May2025 17:30:32.395] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-940, y=-39, z=-12366}
+[03May2025 17:30:32.412] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-25, z=-12368}
+[03May2025 17:30:32.441] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-914, y=-25, z=-12368}
+[03May2025 17:30:32.442] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-899, y=-25, z=-12368}
+[03May2025 17:30:32.453] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-928, y=-25, z=-12368}
+[03May2025 17:30:32.455] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-914, y=-25, z=-12368}
+[03May2025 17:30:32.471] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-899, y=-25, z=-12368}
+[03May2025 17:30:32.587] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-962, y=-25, z=-12368}
+[03May2025 17:30:35.146] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:pillager_camp/campfire
+[03May2025 17:30:35.272] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/center_house
+[03May2025 17:30:41.735] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:31:37.879] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:31:42.182] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:31:49.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:31:54.531] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:34:08.852] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/graveyard/main1
+[03May2025 17:34:45.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:34:45.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:35:07.582] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog2 is being run through DFU (hash ca217402bfafcb19e98e0b2af06fd68318eebb575f663a669e8efe4754fe65e7), this will cause launch time delays
+[03May2025 17:35:07.683] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog3 is being run through DFU (hash 744c73b5400f063dc17fb9e12e22005e40c3bdc7ff95ee4e7af548968bf9c578), this will cause launch time delays
+[03May2025 17:35:47.697] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[03May2025 17:37:10.341] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[03May2025 17:37:21.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03May2025 17:39:01.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03May2025 17:39:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 17:39:32.315] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 40 messages to dispatch.
+[03May2025 17:39:32.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[03May2025 17:39:32.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[03May2025 17:39:32.416] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[03May2025 17:39:32.466] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 3
+[03May2025 17:39:32.517] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 4
+[03May2025 17:39:32.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [kuma_api, blue_skies, fabric_renderer_api_v1, playeranimator, aether, naturalist, mcwwindows, dynamiclights, incendium, sophisticatedcore, kleeslabs, xaeroworldmap, modernfix, yungsapi, mixinextras, void_lib, sophisticatedbackpacks, fastconfigapi, takesapillage, balm, snowrealmagic, fpsreducer, firearrows, betterfortresses, cloth_config, sound_physics_remastered, spelunkers_charm, sawmill, twilightforest, konkrete, embeddium, rubidium, diagonalblocks, structure_gel, advancementplaques, farmersdelight, ambientsounds, gml, endrem, lionfishapi, mr_tidal_towns, cataclysm, curios, oculus, commongroovylibrary, bettervillage, tombstone, eatinganimation, cumulus_menus, spartanweaponry, architectury, brb, mr_limesplatus_ending, deimos, chimes, undergarden, nitrogen_internals, t_and_t, betteradvancements, kiwi, mowziesmobs, geckolib, amendments, jei, lithostitched, veggiesdelight, libraryferret, caelus, immersive_weathering, chloride, waystones, fabric_renderer_indigo, wardrobe, fallingleaves, structory, artifacts, decorative_blocks, mr_veinminer, midnightlib, starlight, explorerscompass, puzzlesaccessapi, forge, ironchest, craftingtweaks, tectonic, minecraft, etched, dustydecorations, radiantgear, moonlight, fabric_api_base, mousetweaks, mixinsquared, jade, creativecore, macabre, cleanswing, astikorcarts, notenoughanimations, iceberg, farmersrespite, spartanshields, ecologics, xaerominimap, mes, nullscape, zeta, quark, supplementaries, labellingcontainers, irons_spellbooks, diagonalfences, armoroftheages, entityculling, realcamera, inventoryhud, immediatelyfast, mvs, appleskin, moremobvariants, ferritecore, yet_another_config_lib_v3, puzzleslib, footwork, justzoom, aquaculture, mns, expandability, presencefootsteps, cristellib]
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undergarden:channel' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blue_skies:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armoroftheages:config_sync' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'astikorcarts:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moremobvariants:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kleeslabs:network' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sawmill:channel' : Version test of '0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_weathering:channel' : Version test of '0' from client : ACCEPTED
+[03May2025 17:39:32.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'etched:play' : Version test of '3' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spelunkers_charm:spelunkers_charm' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'macabre:macabre' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.4' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dustydecorations:dustydecorations' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wardrobe:wardrobe' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[03May2025 17:39:32.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[03May2025 17:39:32.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[03May2025 17:39:32.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:32.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:32.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[03May2025 17:39:32.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:32.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:32.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[03May2025 17:39:32.666] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[03May2025 17:39:32.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[03May2025 17:39:32.747] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[03May2025 17:39:32.747] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:32.747] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:32.753] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[03May2025 17:39:32.753] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:32.753] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:32.766] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 9
+[03May2025 17:39:32.816] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 10
+[03May2025 17:39:32.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 11
+[03May2025 17:39:32.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 12
+[03May2025 17:39:32.969] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[03May2025 17:39:33.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 14
+[03May2025 17:39:33.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[03May2025 17:39:33.123] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[03May2025 17:39:33.167] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:advancement_sound_override' to 'fml:handshake' sequence 17
+[03May2025 17:39:33.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 18
+[03May2025 17:39:33.266] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 19
+[03May2025 17:39:33.316] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 20
+[03May2025 17:39:33.341] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[03May2025 17:39:33.341] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.341] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.343] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[03May2025 17:39:33.343] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.343] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.344] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[03May2025 17:39:33.344] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.344] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.345] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[03May2025 17:39:33.345] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.345] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.365] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 21
+[03May2025 17:39:33.417] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 22
+[03May2025 17:39:33.434] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[03May2025 17:39:33.434] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.434] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 23
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.468] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[03May2025 17:39:33.469] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.469] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[03May2025 17:39:33.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[03May2025 17:39:33.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 24
+[03May2025 17:39:33.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 25
+[03May2025 17:39:33.596] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[03May2025 17:39:33.596] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.596] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.596] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[03May2025 17:39:33.596] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.596] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 26
+[03May2025 17:39:33.650] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[03May2025 17:39:33.650] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.650] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.671] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 27
+[03May2025 17:39:33.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 28
+[03May2025 17:39:33.740] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[03May2025 17:39:33.740] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.740] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.766] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 29
+[03May2025 17:39:33.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[03May2025 17:39:33.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[03May2025 17:39:33.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.815] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 30
+[03May2025 17:39:33.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 31
+[03May2025 17:39:33.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[03May2025 17:39:33.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.913] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[03May2025 17:39:33.913] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.913] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 32
+[03May2025 17:39:33.949] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[03May2025 17:39:33.949] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:33.949] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:33.966] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 33
+[03May2025 17:39:34.015] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config etched-server.toml' to 'fml:handshake' sequence 34
+[03May2025 17:39:34.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 35
+[03May2025 17:39:34.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 36
+[03May2025 17:39:34.169] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 37
+[03May2025 17:39:34.217] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 38
+[03May2025 17:39:34.226] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[03May2025 17:39:34.226] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.226] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.267] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 39
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.267] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.307] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[03May2025 17:39:34.307] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.307] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.351] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[03May2025 17:39:34.351] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.351] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.412] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[03May2025 17:39:34.412] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03May2025 17:39:34.412] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03May2025 17:39:34.416] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 39
+[03May2025 17:39:34.416] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[03May2025 17:39:34.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[03May2025 17:39:34.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:45541] logged in with entity id 55086 at (-722.4471822124966, 72.05175927506424, -12781.728511181329)
+[03May2025 17:39:34.537] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@22878fd7 into net.minecraft.network.Connection@5e3b1ffd
+[03May2025 17:39:34.537] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 17:39:34.537] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 17:39:34.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 17:39:34.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 17:39:34.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 17:39:34.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 17:39:34.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 17:39:34.542] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 463 classes
+[03May2025 17:39:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 17:39:34.563] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 17:39:34.604] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['ChupetinXD'/55086, l='ServerLevel[world]', x=-722.45, y=72.05, z=-12781.73]
+[03May2025 17:39:45.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:39:45.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:39:59.270] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog1 is being run through DFU (hash b48691bece5f802bfd092d45fa0f8d92fdf4930e0c327f725b0ad196ca358c77), this will cause launch time delays
+[03May2025 17:41:06.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:41:22.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/56255, l='ServerLevel[world]', x=-561.57, y=35.70, z=-12808.73], dimensionLocationPath overworld
+[03May2025 17:41:22.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/56255, l='ServerLevel[world]', x=-561.57, y=35.70, z=-12808.73] in list []
+[03May2025 17:41:22.681] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/56255, l='ServerLevel[world]', x=-561.50, y=34.38, z=-12809.11, removed=DISCARDED]
+[03May2025 17:42:20.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:42:41.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:43:03.700] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[03May2025 17:43:38.627] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[03May2025 17:43:38.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[03May2025 17:43:52.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:44:07.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:44:30.781] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:44:45.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:44:45.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:45:23.968] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03May2025 17:45:29.596] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[03May2025 17:45:52.301] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[03May2025 17:46:07.143] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:46:31.730] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:46:39.727] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:49:45.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:49:45.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:54:01.429] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:54:27.020] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/connector
+[03May2025 17:54:27.036] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mossy_ruin/outer3 is being run through DFU (hash eca45736430995e6887a506c5fb38c7f8271ef5fa29000015d206c43bea3c0bc), this will cause launch time delays
+[03May2025 17:54:27.080] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/outer2
+[03May2025 17:54:40.121] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[03May2025 17:54:40.160] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/gate/wall_church
+[03May2025 17:54:40.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/gate/wall_spikes
+[03May2025 17:54:40.316] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/gate/wall_tree
+[03May2025 17:54:40.346] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_inner_corner_ravager
+[03May2025 17:54:40.377] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_corner_farm
+[03May2025 17:54:40.406] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_corner_barracks
+[03May2025 17:54:40.439] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/inside_cage_broken
+[03May2025 17:54:45.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:54:45.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:58:59.084] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 17:59:45.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 17:59:45.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 17:59:52.999] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager a956106f: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03May2025 17:59:53.165] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager a956106f: RandomSpreadSearchWorker succeeded with 4224 radius, 17 samples
+[03May2025 18:01:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Birds of a Feather]
+[03May2025 18:03:04.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Heliomancer]
+[03May2025 18:03:34.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03May2025 18:03:34.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 18:04:45.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 18:04:45.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

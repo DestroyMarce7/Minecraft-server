@@ -996,3 +996,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 16:35:16.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
 [03May2025 16:35:16.025] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
 [03May2025 16:35:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tienes o no tienes
+[03May2025 17:13:08.092] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03May2025 17:15:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Your First Receptacle]
+[03May2025 17:15:47.740] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03May2025 17:15:47.742] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[03May2025 17:15:49.149] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 17:15:49.149] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 17:15:58.547] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03May2025 17:39:01.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03May2025 17:39:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 17:39:34.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:45541] logged in with entity id 55086 at (-722.4471822124966, 72.05175927506424, -12781.728511181329)
+[03May2025 17:39:34.537] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 17:39:34.537] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 17:39:34.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 17:39:34.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 17:39:34.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 17:39:34.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 17:39:34.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 17:39:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 17:39:34.563] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 17:45:23.968] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03May2025 17:45:29.596] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[03May2025 17:59:52.999] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager a956106f: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03May2025 17:59:53.165] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager a956106f: RandomSpreadSearchWorker succeeded with 4224 radius, 17 samples
+[03May2025 18:01:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Birds of a Feather]
+[03May2025 18:03:04.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Heliomancer]
+[03May2025 18:03:34.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[03May2025 18:03:34.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
