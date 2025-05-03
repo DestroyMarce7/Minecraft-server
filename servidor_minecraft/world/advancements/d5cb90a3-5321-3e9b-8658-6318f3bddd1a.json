@@ -515,111 +515,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "supplementaries:husbandry/sus_stew": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 07:37:27 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-05-02 06:18:00 +0000"
+      "stew": "2025-05-02 06:04:02 +0000"
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/moss": {
+  "spartanweaponry:warhammer": {
     "criteria": {
-      "apple": "2025-05-02 07:29:39 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-05-02 06:21:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-02 07:29:20 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-05-02 06:21:01 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2025-05-02 07:28:11 +0000"
+      "has_warhammer": "2025-05-02 06:07:22 +0000"
     },
     "done": true
   },
@@ -629,9 +533,33 @@
     },
     "done": true
   },
-  "spartanweaponry:warhammer": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "has_warhammer": "2025-05-02 06:07:22 +0000"
+      "requirement": "2025-05-02 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-02 06:21:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-02 06:21:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-02 06:21:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-02 06:25:33 +0000"
     },
     "done": true
   },
@@ -647,21 +575,51 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+  "cataclysm:kill_monstrosity": {
     "criteria": {
-      "requirement": "2025-05-02 06:25:33 +0000"
+      "netheritemonstrosity": "2025-05-02 07:28:11 +0000"
     },
     "done": true
   },
-  "supplementaries:husbandry/sus_stew": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "stew": "2025-05-02 06:04:02 +0000"
+      "tamed_animal": "2025-05-02 07:29:20 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+  "immersive_weathering:immersive_weathering/moss": {
     "criteria": {
-      "inscription_table": "2025-05-02 06:21:01 +0000"
+      "apple": "2025-05-02 07:29:39 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-05-03 03:28:18 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-05-03 03:28:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-03 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-03 03:28:18 +0000"
+    },
+    "done": true
+  },
+  "dustydecorations:welcome_to_dusty_decor": {
+    "criteria": {
+      "welcome_to_dusty_decor_0": "2025-05-03 03:28:18 +0000"
     },
     "done": true
   },

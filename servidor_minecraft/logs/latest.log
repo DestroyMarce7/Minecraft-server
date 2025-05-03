@@ -1717,3 +1717,222 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 02:38:34.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XD
 [03May2025 02:39:26.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1079, l='ServerLevel[world]', x=-2290.38, y=102.00, z=-6685.99] died, message: 'Nitwit was shot by Pillager'
 [03May2025 02:42:23.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Spooky Scary Skeleton]
+[03May2025 02:43:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Creative Mode]
+[03May2025 02:44:20.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[03May2025 02:44:31.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [A Strange Grave Dust]
+[03May2025 02:44:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> bro what
+[03May2025 02:44:38.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[03May2025 02:44:43.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Knowledge of Death]
+[03May2025 02:44:43.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Ashes 'n Bones]
+[03May2025 02:45:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Survival Mode]
+[03May2025 02:45:49.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya tengo pal wither
+[03May2025 02:46:55.188] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/1abab2bd-e836-3702-9517-15ef6b39c0d6.json: Don't know what gravestone:obituary is
+[03May2025 02:46:55.189] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/1abab2bd-e836-3702-9517-15ef6b39c0d6.json: Don't know what gravestone:obituary is
+[03May2025 02:46:55.189] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/1abab2bd-e836-3702-9517-15ef6b39c0d6.json: Don't know what gravestone:gravestone is
+[03May2025 02:46:55.201] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: gravestone:gravestone removed now.
+[03May2025 02:46:55.206] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: gravestone:gravestone removed now.
+[03May2025 02:46:55.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.247.184.99:46941] logged in with entity id 7546 at (121.40177487381898, 58.0, -831.9817076271447)
+[03May2025 02:46:55.209] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to AronTR
+[03May2025 02:46:55.209] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to AronTR
+[03May2025 02:46:55.210] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to AronTR
+[03May2025 02:46:55.210] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to AronTR
+[03May2025 02:46:55.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to AronTR
+[03May2025 02:46:55.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to AronTR
+[03May2025 02:46:55.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to AronTR
+[03May2025 02:46:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[03May2025 02:46:55.238] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[03May2025 02:46:55.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Welcome To Dusty Decorations!]
+[03May2025 02:46:57.121] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:46:57.358] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:46:57.514] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:46:58.962] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:46:58.963] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:49:34.803] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:53:29.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[03May2025 02:53:38.776] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 02:53:38.847] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10489, l='ServerLevel[world]', x=-190.32, y=26.00, z=-7083.40, removed=DISCARDED]
+[03May2025 02:53:38.847] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10490, l='ServerLevel[world]', x=-188.09, y=19.00, z=-7086.26, removed=DISCARDED]
+[03May2025 02:53:40.629] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10490, l='ServerLevel[world]', x=-188.09, y=19.00, z=-7086.26, removed=DISCARDED]
+[03May2025 02:53:40.630] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10489, l='ServerLevel[world]', x=-190.32, y=26.00, z=-7083.40, removed=DISCARDED]
+[03May2025 02:55:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> mano las fortalezas están rotísimas
+[03May2025 02:55:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AronTR> ok
+[03May2025 02:55:17.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Magic Writing]
+[03May2025 02:55:46.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 02:55:46.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 -2171 70 -6750<--[HERE]
+[03May2025 02:56:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DestroyMarce7 to -2170.500000, 70.000000, -6749.500000
+[03May2025 02:57:14.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported AronTR to DestroyMarce7]
+[03May2025 02:57:23.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/11364, l='ServerLevel[world]', x=-2175.70, y=73.05, z=-6749.39] died, message: 'Fletcher was slain by Zombie'
+[03May2025 03:05:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Stare Into Despair]
+[03May2025 03:11:05.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Not Today, Thank You]
+[03May2025 03:11:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Strong or Careful]
+[03May2025 03:11:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD was doomed to fall by Ancient Knight
+[03May2025 03:11:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Your First Grave]
+[03May2025 03:11:45.582] [Server thread/INFO] [tombstone/]: The player ChupetinXD has successfully been saved
+[03May2025 03:11:51.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> carajomierda
+[03May2025 03:12:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Knowledge raises the soul]
+[03May2025 03:12:13.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[03May2025 03:12:13.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Flying is not enabled on this server
+[03May2025 03:12:13.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 03:12:13.699] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 03:12:21.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:49681] logged in with entity id 18845 at (-230.25782534517816, 112.28549238931866, -489.0781788784319)
+[03May2025 03:12:21.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 03:12:21.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 03:12:21.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 03:12:21.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 03:12:21.696] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 03:12:21.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 03:12:21.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 03:12:21.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 03:12:21.716] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 03:12:32.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[03May2025 03:12:32.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Flying is not enabled on this server
+[03May2025 03:12:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 03:13:33.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:56213] logged in with entity id 19266 at (-230.25782534517816, 97.9111509808194, -489.0781788784319)
+[03May2025 03:13:33.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 03:13:33.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 03:13:33.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 03:13:33.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 03:13:33.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 03:13:33.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 03:13:33.998] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 03:13:34.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 03:13:34.018] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 03:13:44.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[03May2025 03:13:44.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Flying is not enabled on this server
+[03May2025 03:13:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 03:13:50.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:32809] logged in with entity id 19541 at (-248.3632943247293, 83.0124783296293, -490.48714771741436)
+[03May2025 03:13:51.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 03:13:51.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 03:13:51.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 03:13:51.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 03:13:51.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 03:13:51.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 03:13:51.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 03:13:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 03:13:51.021] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 03:14:00.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD was kicked for floating too long!
+[03May2025 03:14:01.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Flying is not enabled on this server
+[03May2025 03:14:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 03:14:06.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:55127] logged in with entity id 19812 at (-256.75481905494655, 68.1138056784392, -487.5224651024013)
+[03May2025 03:14:06.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChupetinXD
+[03May2025 03:14:06.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChupetinXD
+[03May2025 03:14:06.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChupetinXD
+[03May2025 03:14:06.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChupetinXD
+[03May2025 03:14:06.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChupetinXD
+[03May2025 03:14:06.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChupetinXD
+[03May2025 03:14:06.050] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChupetinXD
+[03May2025 03:14:06.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[03May2025 03:14:06.068] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[03May2025 03:14:30.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Here They Come]
+[03May2025 03:14:37.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD tried to swim in lava
+[03May2025 03:14:37.399] [Server thread/INFO] [tombstone/]: The player ChupetinXD has successfully been saved
+[03May2025 03:15:07.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 03:15:07.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fly<--[HERE]
+[03May2025 03:15:16.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 03:15:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fly DestroyMarce7<--[HERE]
+[03May2025 03:16:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 03:16:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: essentials:fly DestroyMarce7<--[HERE]
+[03May2025 03:16:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Discreet Search]
+[03May2025 03:16:28.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> nada mi amro
+[03May2025 03:16:32.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> necesitaria cambiarlo a
+[03May2025 03:16:36.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> bukit
+[03May2025 03:16:42.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> y nika p se jode todo
+[03May2025 03:16:55.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tmre yaya
+[03May2025 03:16:55.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> eso es un plugin eso de fly
+[03May2025 03:19:16.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Tip of the Spear]
+[03May2025 03:27:42.909] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:27:56.419] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:27:56.419] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:27:56.419] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:27:56.419] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:27:56.419] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:28:18.650] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d5cb90a3-5321-3e9b-8658-6318f3bddd1a.json: Don't know what gravestone:obituary is
+[03May2025 03:28:18.650] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d5cb90a3-5321-3e9b-8658-6318f3bddd1a.json: Don't know what gravestone:obituary is
+[03May2025 03:28:18.651] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d5cb90a3-5321-3e9b-8658-6318f3bddd1a.json: Don't know what gravestone:gravestone is
+[03May2025 03:28:18.660] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: gravestone:gravestone removed now.
+[03May2025 03:28:18.665] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: gravestone:gravestone removed now.
+[03May2025 03:28:18.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.230.120.36:40331] logged in with entity id 25351 at (71.67486829499137, 36.0, -23.701116067744827)
+[03May2025 03:28:18.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jorgepwe
+[03May2025 03:28:18.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jorgepwe
+[03May2025 03:28:18.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jorgepwe
+[03May2025 03:28:18.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jorgepwe
+[03May2025 03:28:18.671] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jorgepwe
+[03May2025 03:28:18.674] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jorgepwe
+[03May2025 03:28:18.674] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jorgepwe
+[03May2025 03:28:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[03May2025 03:28:18.695] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[03May2025 03:28:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Welcome To Dusty Decorations!]
+[03May2025 03:28:18.957] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:28:19.256] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:28:19.294] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id gravestone:gravestone
+[03May2025 03:28:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AronTR> ptmr
+[03May2025 03:28:38.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03May2025 03:28:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> que tal
+[03May2025 03:28:58.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03May2025 03:29:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> vengo a ofrecer un servicio de follada adomicilio
+[03May2025 03:29:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> los follo
+[03May2025 03:29:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> y listo
+[03May2025 03:29:18.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> totalmente gratis
+[03May2025 03:29:24.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03May2025 03:29:34.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> quiero el servicio
+[03May2025 03:29:37.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> pero de tu madre
+[03May2025 03:29:41.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[03May2025 03:29:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> tienes vagina tu oe wbon
+[03May2025 03:29:54.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Jennifer Dumped Me]
+[03May2025 03:30:08.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[03May2025 03:30:24.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26782, l='ServerLevel[world]', x=-5077.50, y=72.00, z=7174.50]
+[03May2025 03:30:29.340] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26865, l='ServerLevel[world]', x=-5051.50, y=75.00, z=7187.50]
+[03May2025 03:30:33.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03May2025 03:30:41.237] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26963, l='ServerLevel[world]', x=-4986.50, y=75.00, z=7124.50]
+[03May2025 03:31:07.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03May2025 03:31:18.072] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27370, l='ServerLevel[world]', x=-5051.50, y=75.00, z=7185.50]
+[03May2025 03:31:29.882] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27553, l='ServerLevel[world]', x=-5172.50, y=81.00, z=7058.50]
+[03May2025 03:31:30.802] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27580, l='ServerLevel[world]', x=-4942.50, y=97.00, z=7073.50]
+[03May2025 03:31:33.105] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27631, l='ServerLevel[world]', x=-4928.50, y=81.00, z=7047.50]
+[03May2025 03:31:35.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03May2025 03:31:38.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27702, l='ServerLevel[world]', x=-5059.50, y=76.00, z=7198.50]
+[03May2025 03:31:55.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27910, l='ServerLevel[world]', x=-5063.50, y=77.00, z=7201.50]
+[03May2025 03:32:01.986] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27971, l='ServerLevel[world]', x=-5041.50, y=81.00, z=7112.50]
+[03May2025 03:32:08.874] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28058, l='ServerLevel[world]', x=-4960.50, y=97.00, z=7078.50]
+[03May2025 03:32:09.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03May2025 03:32:10.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> jorge tengo 12 cabezas de wither
+[03May2025 03:32:14.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28123, l='ServerLevel[world]', x=-5063.50, y=76.00, z=7176.50]
+[03May2025 03:32:20.870] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28334, l='ServerLevel[world]', x=-5094.50, y=80.00, z=7197.50]
+[03May2025 03:32:22.354] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28362, l='ServerLevel[world]', x=-5009.50, y=99.00, z=7095.50]
+[03May2025 03:32:24.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5041, y=77, z=7089} BlockPos{x=-5040, y=76, z=7088}
+[03May2025 03:32:24.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5041, y=77, z=7089} BlockPos{x=-5040, y=76, z=7088}
+[03May2025 03:32:24.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5041, y=77, z=7089} BlockPos{x=-5040, y=76, z=7088}
+[03May2025 03:32:24.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5041, y=77, z=7089} BlockPos{x=-5040, y=76, z=7088}
+[03May2025 03:32:25.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5041, y=77, z=7089} BlockPos{x=-5040, y=76, z=7088}
+[03May2025 03:32:25.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5041, y=77, z=7089} BlockPos{x=-5040, y=76, z=7088}
+[03May2025 03:32:27.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28498, l='ServerLevel[world]', x=-5034.50, y=73.00, z=7180.50]
+[03May2025 03:32:28.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28503, l='ServerLevel[world]', x=-5083.50, y=80.00, z=7206.50]
+[03May2025 03:32:41.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> con la guadaña es facil ps
+[03May2025 03:32:50.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> y tú pq no tienes 12 cabezas
+[03May2025 03:32:54.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> porq
+[03May2025 03:32:54.915] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28927, l='ServerLevel[world]', x=-5027.50, y=87.00, z=7113.50]
+[03May2025 03:32:55.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28948, l='ServerLevel[world]', x=-5053.50, y=75.00, z=7187.50]
+[03May2025 03:32:55.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Knowledge of Death]
+[03May2025 03:32:55.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Ashes 'n Bones]
+[03May2025 03:32:58.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> no he matado
+[03May2025 03:32:59.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29014, l='ServerLevel[world]', x=-5017.50, y=78.00, z=7204.50]
+[03May2025 03:33:02.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgepwe> a los esqueletos
+[03May2025 03:33:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> muy bueno
+[03May2025 03:33:12.650] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29224, l='ServerLevel[world]', x=-4934.50, y=84.00, z=7110.50]
+[03May2025 03:33:13.641] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29229, l='ServerLevel[world]', x=-4986.50, y=75.00, z=7126.50]
+[03May2025 03:33:37.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29484, l='ServerLevel[world]', x=-5064.50, y=77.00, z=7202.50]
+[03May2025 03:33:51.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29719, l='ServerLevel[world]', x=-5034.50, y=73.00, z=7182.50]
+[03May2025 03:34:21.806] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30241, l='ServerLevel[world]', x=-5096.50, y=79.00, z=7203.50]
+[03May2025 03:34:25.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30326, l='ServerLevel[world]', x=-4932.50, y=84.00, z=7108.50]
+[03May2025 03:34:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [A Strange Grave Dust]
+[03May2025 03:34:45.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30817, l='ServerLevel[world]', x=-4943.50, y=97.00, z=7075.50]
+[03May2025 03:34:54.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31143, l='ServerLevel[world]', x=-5085.50, y=80.00, z=7206.50]
+[03May2025 03:34:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Knowledge raises the soul]
+[03May2025 03:34:54.803] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31148, l='ServerLevel[world]', x=-4977.50, y=97.00, z=7089.50]
+[03May2025 03:34:57.477] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31226, l='ServerLevel[world]', x=-5062.50, y=77.00, z=7203.50]
+[03May2025 03:34:58.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31229, l='ServerLevel[world]', x=-5094.50, y=80.00, z=7195.50]
+[03May2025 03:35:03.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31315, l='ServerLevel[world]', x=-5015.50, y=78.00, z=7204.50]
+[03May2025 03:35:20.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31657, l='ServerLevel[world]', x=-4979.50, y=72.00, z=7188.50]
+[03May2025 03:35:43.320] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31985, l='ServerLevel[world]', x=-5000.50, y=76.00, z=7210.50]
+[03May2025 03:35:46.871] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32008, l='ServerLevel[world]', x=-5061.50, y=76.00, z=7174.50]
+[03May2025 03:35:47.366] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32013, l='ServerLevel[world]', x=-4999.50, y=76.00, z=7211.50]

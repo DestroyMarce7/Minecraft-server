@@ -171,6 +171,8 @@
       "minecraft:witch": "2025-05-02 06:33:34 +0000",
       "minecraft:wither_skeleton": "2025-05-03 02:37:16 +0000",
       "minecraft:cave_spider": "2025-05-02 06:43:52 +0000",
+      "quark:wraith": "2025-05-03 02:39:54 +0000",
+      "minecraft:piglin": "2025-05-03 03:09:42 +0000",
       "minecraft:enderman": "2025-05-02 00:56:36 +0000",
       "minecraft:zombie": "2025-05-01 15:14:35 +0000",
       "quark:foxhound": "2025-05-02 00:33:42 +0000",
@@ -480,6 +482,8 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "zombie_head": "2025-05-02 06:33:14 +0000",
+      "wither_skeleton_skull": "2025-05-03 02:42:23 +0000",
+      "skeleton_skull": "2025-05-03 03:04:51 +0000",
       "blaze_head": "2025-05-03 02:38:05 +0000",
       "cave_spider_head": "2025-05-02 06:45:33 +0000"
     },
@@ -527,27 +531,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-05-03 02:38:03 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-05-03 02:28:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-05-03 02:37:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-05-03 02:28:24 +0000"
     },
     "done": true
   },
@@ -560,6 +546,114 @@
   "dustydecorations:welcome_to_dusty_decor": {
     "criteria": {
       "welcome_to_dusty_decor_0": "2025-05-03 02:28:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-03 02:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-03 02:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-03 02:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-03 02:42:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-03 02:44:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 02:44:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 02:44:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 02:44:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-03 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-03 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-03 03:11:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 03:11:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 03:14:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 03:16:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-05-03 03:19:16 +0000"
     },
     "done": true
   },
