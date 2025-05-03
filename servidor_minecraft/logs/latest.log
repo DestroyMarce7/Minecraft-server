@@ -1023,3 +1023,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 18:03:04.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Heliomancer]
 [03May2025 18:03:34.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
 [03May2025 18:03:34.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[03May2025 18:09:21.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
