@@ -912,3 +912,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 15:23:20.419] [Server thread/INFO] [Jade/]: Syncing config to DestroyMarce7 (417250f2-70ac-3f9e-ae2c-74c0ab6b2b83)
 [03May2025 15:23:30.855] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [03May2025 15:23:38.610] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03May2025 15:24:04.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[03May2025 15:24:55.381] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03May2025 15:24:55.381] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03May2025 15:24:55.381] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03May2025 15:24:55.381] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03May2025 15:24:55.381] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03May2025 15:25:09.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> te voy a violar
+[03May2025 15:25:11.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> q fue
+[03May2025 15:25:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Funeral Theft]
+[03May2025 15:25:22.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> nadada depue te explico
+[03May2025 15:25:30.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> altok o
+[03May2025 15:26:04.643] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 15:26:04.644] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 15:26:29.356] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03May2025 15:26:31.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[03May2025 15:30:49.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> joder creo q perdí mi máscara solar
+[03May2025 15:31:00.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> nimodo a matar al jefe de nuevo
+[03May2025 15:31:01.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10788, l='ServerLevel[world]', x=-219.50, y=72.00, z=-9543.50]
+[03May2025 15:31:20.109] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11000, l='ServerLevel[world]', x=-380.50, y=76.00, z=-9626.50]
+[03May2025 15:31:44.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11256, l='ServerLevel[world]', x=-264.50, y=76.00, z=-9539.50]
+[03May2025 15:32:14.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11551, l='ServerLevel[world]', x=-327.50, y=78.00, z=-9564.50]
+[03May2025 15:32:32.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11649, l='ServerLevel[world]', x=-244.50, y=75.00, z=-9513.50]
+[03May2025 15:32:50.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[03May2025 15:32:50.912] [Server thread/INFO] [tombstone/]: The player ChupetinXD has successfully been saved
+[03May2025 15:32:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [The Most Useful Key]
+[03May2025 15:32:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ostias
+[03May2025 15:33:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [A Fast Comeback]
+[03May2025 15:33:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has reached the goal [Chain Death]
+[03May2025 15:33:04.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD was slain by Umvuthi, the Sunbird
+[03May2025 15:33:04.845] [Server thread/INFO] [tombstone/]: The player ChupetinXD has successfully been saved
+[03May2025 15:33:07.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> aea
+[03May2025 15:34:05.060] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12850, l='ServerLevel[world]', x=-278.50, y=79.00, z=-9522.50]
+[03May2025 15:34:05.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12851, l='ServerLevel[world]', x=-304.50, y=75.00, z=-9558.50]
+[03May2025 15:34:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> bro me acabo de dar cuenta q la máscara estaba en mi inventario y yo ni enterado
+[03May2025 15:34:18.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> XDDD
